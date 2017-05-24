@@ -1,4 +1,4 @@
-﻿# Rozdział I: niezbędne podstawy
+﻿# Rozdział I: Podstawowe informacje
 
 ## §1 Podstawowe informacje
 Podstawowe Fundacja pod nazwą ..., zwana dalej „Fundacją”,
@@ -20,18 +20,22 @@ może ona także prowadzić działalnośći, także poza granicami Rzeczpospolit
 > 2. Fundacja może dla celów współpracy z zagranicą posługiwać się 
 tłumaczeniem nazwy w wybranych językach.
 
-§5 Minister odpowiedzialny za fundację
+## §5 Minister odpowiedzialny za fundację
+Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki
 
+## §6 Identyfikacja/nazwa fundacji
+> 1. Pełną nazwą fundacji jest ...
+> 2. Fundacja może się posługiwać nazwą skróconą ...
+oraz wyróżniającym ją znakiem graficznym.
+> 3. Fundacja używa pieczęci z oznakowaniem pełnej nazwy fundacji oraz jej siedziby.
 
-§6 Identyfikacja/nazwa fundacji
+## §7 Oznaczenia i wyróżnienia #przypinki
+Fundacja może ustanowić odznaki oraz medale honorowe 
+i przyznawać je wraz z innymi nagrodami i wyróżnieniami, 
+osobom fizycznym i prawnym, zasłużonym dla celów obranych
+przez Fundacje lub dla samej Fundacji. 
 
-
-§7 Oznaczenia i wyróżnienia #przypinki
-
-
-Rozdział II: Cele i zasady działania fundacji
-Przegadać z chłopakami: odpłatność i nieodpłatność działalności pożytku publicznego, a działalność gospodarcza w ramach fundacji
-
+# Rozdział II: Cele i zasady działania fundacji
 
 §8 Sformułowanie celu/celów
 

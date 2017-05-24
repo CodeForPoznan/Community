@@ -1,4 +1,4 @@
-﻿# Rozdział I: Podstawowe informacje
+﻿s# Rozdział I: Podstawowe informacje
 
 ## §1 Podstawowe informacje
 Podstawowe Fundacja pod nazwą ..., zwana dalej „Fundacją”,
@@ -47,6 +47,8 @@ komputerowego; polegająca na prowadzeniu działań edukacyjnych, informacyjnych
 doradczych, szkoleniowych, wychowawczych, badawczo-rozwojowych i naukowych."*
 
 Wasza narracja: *"..."*
+
+Ściągawka: Ustawa o działalności pożytku publicznego 2003
 
 ## §9 Realizacja celu
 1. Fundacja realizuje swoje cele poprzez: ...
@@ -103,15 +105,15 @@ których działalność jest zbieżna z jej celami.
 (słownie: ... PLN) złotych oraz środki finansowe, 
 nieruchomości i ruchomości nabyte przez Fundacje w toku jej działania. 
 2. Środki na realizację celów Fundacji i pokrycie kosztów jej działalności pochodzą z:
-a) funduszu założycielskiego i darowizn Fundatorów,
-b) darowizn, subwencji, spadków i zapisów,
-c) subwencji osób prawnych,
-d) dochodów z majątku nieruchomego i ruchomego,
-e) aukcji internetowych,
-f) dochodów z darów, zbiórek i imprez publicznych,
-g) odsetek i depozytów bankowych,
-h) z działalności odpłatnej pożytku publicznego. 
-i) * ... działalności gospodarczej ??? *
+	a) funduszu założycielskiego i darowizn Fundatorów,
+	b) darowizn, subwencji, spadków i zapisów,
+	c) subwencji osób prawnych,
+	d) dochodów z majątku nieruchomego i ruchomego,
+	e) aukcji internetowych,
+	f) dochodów z darów, zbiórek i imprez publicznych,
+	g) odsetek i depozytów bankowych,
+	h) z działalności odpłatnej pożytku publicznego. 
+	i) * ... działalności gospodarczej ??? *
 3. Dochody pochodzące z subwencji, darowizn, spadków i zapisów mogą być użyte na
 wybrane przez Fundację, dowolne działanie związane z realizacją celów Fundacji,
 o ile ofiarodawcy nie postanowili inaczej. 
@@ -134,24 +136,108 @@ Fundacja odpowiada za swoje zobowiązania całym majątkiem.
 
 # Rozdział IV: Organy Fundacji
 
-§15 Zarząd
+## §15 Zarząd
+Organem Fundacji jest Zarząd Fundacji. 
 
-§16 Członkowie zarządu
+## §16 Członkowie zarządu
+1. Zarząd Fundacji składa się z ... członków, w tym Prezesa Zarządu Fundacji.
+2. Członkowie Zarządu Fundacji powoływani i odwoływaniu są przez Fundatorów
+w drodze zgodnego oświadczenia na czas wskazany w akcie powołania. 
+3. Fundator może zostać członkiem Zarządu Fundacji. 
+4. Członkowie Zarządu Fundacji mogą otrzymywać wynagrodzenie z tytułu pełnienia
+swoich funkcji.
+5. Członkostwo w Zarządzie Fundacji ustaje w przypadku odwołania, pisemnej
+rezygnacji z członkostwa lub śmierci Członka. 
 
-§17 Fundatorzy
+## §17 Fundatorzy
+1. Fundator do wykonywania swoich uprawnień może powołać pełnomocnika. 
+2. W przypadku śmierci Fundatora uprawnienia przewidziane w niniejszym statucie
+dla Fundatora, wykonuje jego pełnoletnie dziecko, łącznie pełnoletnie dzieci lub do
+czasu uzyskania pełnoletności ich prawni opiekunowie. Jeżeli Fundator nie posiadał
+dzieci, jego obowiązki wykonuje żyjący małżonek, albo łącznie rodzeństwo
+Fundatora, albo łącznie pełnoletnie dzieci rodzeństwa Fundatora lub do czasu
+uzyskania pełnoletności ich prawni opiekunowie. 
 
-§18 Zadania zarządu
+## §18 Zadania zarządu
+1. Zarząd Fundacji kieruje działalnością Fundacji i reprezentuje ją na zewnątrz. 
+2. Do zadań Zarządu należy w szczególności: 
+	a) uchwalanie rocznych planów działania Fundacji oraz planów finansowych, 
+	b) uchwalanie regulaminów,
+	c) sprawowanie zarządu majątkiem Fundacji,
+	d) ustalanie wielkości zatrudnienia i wysokości środków na wynagrodzenia
+	pracowników Fundacji,
+	e) podejmowanie decyzji w sprawach Fundacji,
+	f) przyjmowanie darowizn, spadków i zapisów, subwencji i dotacji,
+	g) występowanie z wnioskiem i wyrażanie zgody bądź odmowy w sprawie zmian
+	statutu Fundacji, połączenia z inną Fundacją oraz likwidacja Fundacji,
+	h) składanie sprawozdań wymaganych prawem. 
+3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą
+większością głosów.
+4. O posiedzeniu muszą być powiadomieni wszyscy członkowie Zarządu.
+5. Zarząd może powoływać pełnomocników do kierowania wyodrębnioną sferą spraw
+należących do zadań Zarządu Fundacji.  
 
-§19 Prezes i wiceprezes 
+## §19 Prezes i wiceprezes 
+1. Zarządowi przewodniczy Prezes Zarządu Fundacji, wskazywany przez Fundatorów
+w akcie powołania Zarządu.
+2. Prezes Zarządu Fundacji zwołuje posiedzenia Zarządu Fundacji z własnej inicjatywy,
+bądź na wniosek każdego z pozostałych członków Zarządu Fundacji, nie rzadziej niż
+raz na pół roku.
+3. Prezes Zarządu Fundacji może powołać Wiceprezesa Zarządu Fundacji spośród
+pozostałych członków Zarządu, który wykonuje obowiązki Prezesa podczas jego
+niemożności działania lub w zakresie mu powierzonym. 
 
-§20 Składanie oświadczeń woli i zwykły zarząd
+## §20 Składanie oświadczeń woli i zwykły zarząd
+1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych
+i niemajątkowych w zakresie zwykłego zarządu uprawniony jest Prezes Zarządu
+Fundacji samodzielnie.
+2. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych
+i niemajątkowych w zakresie przekraczającym zwykły zarząd uprawnieni są łącznie
+wszyscy Członkowie Zarządu Fundacji. 
+3. Sprawy przekraczające zwykły zarząd:
+	a) dokonanie czynności prawnej nie wynikających z planów działania 
+	lub planów finansowych Fundacji;
+	b) dokonanie czynności prawnej o wartości przekraczającej 10 000 
+	(słownie: dziesięć tysięcy PLN) zł, przy czym waluty obce 
+	przeliczać należy według kursu średniego NBP 
+	z dnia dokonania czynności prawnej;
+	c) dokonanie czynności prawnej zobowiązującej Fundację do jakiegokolwiek
+	świadczenia w terminie ponad jednego roku od dnia dokonania czynności
+	prawnej;
+	d) zaciągnięcie kredytu lub innego podobnego zobowiązania w bankach
+	i instytucjach finansowych;
+	e) dokonanie czynności prawnej, których dokonaniu sprzeciwił się 
+	którykolwiek z członków Zarządu.
+4. O działaniach podejmowanych w zakresie zwykłego zarządu Prezes Zarządu Fundacji
+powinien poinformować Zarząd na najbliższym posiedzeniu Zarządu Fundacji. 
 
-Rozdział V: Zmiana statutu
 
-§21 Zmiana statutu
+# Rozdział V: Zmiana statutu
 
-Rozdział VI: Postanowienia końcowe
+## §21 Zmiana statutu
+Decyzje w przedmiocie zmiany Statutu podejmuje jednomyślnie Zarząd Fundacji. 
 
-§22 Połączenia i fuzje
+# Rozdział VI: Postanowienia końcowe
 
-§23 Likwidacja Fundacji
+## §22 Połączenia i fuzje
+1. Dla efektywnego realizowania swoich celów Fundacja może połączyć się z inną
+Fundacją. [(!) a co z przemianą w stowarzyszenie?] 
+2. Połączenie nie może nastąpić, jeśli w jego wyniku mogłyby ulec istotnej zmianie cele
+Fundacji.
+3. Decyzje w przedmiocie połączenia podejmuje Zarząd Fundacji w drodze uchwały
+podjętej na zasadach opisanych w § 21. 
+
+## §23 Likwidacja Fundacji
+1. Fundacja ulega likwidacji w razie osiągnięcia celów, dla których została 
+powołana lub w razie wyczerpania się jej środków finansowych i majątku.
+2. Decyzję w przedmiocie likwidacji Fundacji podejmuje Zarząd Fundacji w drodze
+uchwały na zasadach opisanych w § 21. 
+
+## §24 Majątek po likwidacji
+Majątek pozostały po likwidacji Fundacji przekazuje się, z zastrzeżeniem treści art. 5 ust.4
+ustawy o fundacjach, instytucjom, których działalność odpowiada celom Fundacji,
+wskazanym przez Zarząd Fundacji.
+
+## §25 Wejście w życie
+Statut wchodzi w życie z dniem zarejestrowania Fundacji przez Sąd właściwy dla siedziby
+Fundacji. 

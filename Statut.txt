@@ -10,24 +10,24 @@ oraz niniejszego Statutu.
 ## §2 Osobowość prawna 
 Fundacja posiada osobowość prawną
 
-## §3 Siedziba fundacji
-Siedzibą fundacji jest miasto Poznań
+## §3 Siedziba Fundacji
+Siedzibą Fundacji jest miasto Poznań
 
 ## §4 Teren działalności
-> 1.Terenem działalności fundacji jest obszar Rzeczpospolitej Polskiej, 
+1.Terenem działalności Fundacji jest obszar Rzeczpospolitej Polskiej, 
 przy czym w zakresie niezbędnym dla właściwego realizowania celów 
 może ona także prowadzić działalnośći, także poza granicami Rzeczpospolitej Polskiej.
-> 2. Fundacja może dla celów współpracy z zagranicą posługiwać się 
+2. Fundacja może dla celów współpracy z zagranicą posługiwać się 
 tłumaczeniem nazwy w wybranych językach.
 
-## §5 Minister odpowiedzialny za fundację
+## §5 Minister odpowiedzialny za Fundację
 Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki
 
-## §6 Identyfikacja/nazwa fundacji
-> 1. Pełną nazwą fundacji jest ...
-> 2. Fundacja może się posługiwać nazwą skróconą ...
+## §6 Identyfikacja/nazwa Fundacji
+1. Pełną nazwą Fundacji jest ...
+2. Fundacja może się posługiwać nazwą skróconą ...
 oraz wyróżniającym ją znakiem graficznym.
-> 3. Fundacja używa pieczęci z oznakowaniem pełnej nazwy fundacji oraz jej siedziby.
+3. Fundacja używa pieczęci z oznakowaniem pełnej nazwy Fundacji oraz jej siedziby.
 
 ## §7 Oznaczenia i wyróżnienia #przypinki
 Fundacja może ustanowić odznaki oraz medale honorowe 
@@ -35,57 +35,123 @@ i przyznawać je wraz z innymi nagrodami i wyróżnieniami,
 osobom fizycznym i prawnym, zasłużonym dla celów obranych
 przez Fundacje lub dla samej Fundacji. 
 
-# Rozdział II: Cele i zasady działania fundacji
+# Rozdział II: Cele i zasady działania Fundacji
 
-§8 Sformułowanie celu/celów
+## §8 Cel Fundacji
+Celem Fundacji jest...
 
+Przykład: *"Celami Fundacji są: działalność wspomagająca rozwój techniki, 
+wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych
+w praktyce gospodarczej w zakresie procesów i technik wytwarzania oprogramowania
+komputerowego; polegająca na prowadzeniu działań edukacyjnych, informacyjnych,
+doradczych, szkoleniowych, wychowawczych, badawczo-rozwojowych i naukowych."*
 
-§9 Realizacja celu/celów
+Wasza narracja: *"..."*
 
+## §9 Realizacja celu
+1. Fundacja realizuje swoje cele poprzez: ...
 
-§10 Współpraca w realizacji celu/celów
+	* Przykład:
+	1. Organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa
+	specjalistycznego oraz publikacji materiałów związanych z celami Fundacji.
+	2. Prowadzenie lub wsparcie badań naukowych i rozwojowych związanych
+	z celami Fundacji oraz podejmowanie działań zmierzających
+	do rozpowszechnienia ich wyników.
+	3. Gromadzenie i przetwarzanie danych dla realizacji celów Fundacji.
+	4. Publikacja wyników badań i opracowań, podsumowań gromadzonych danych,
+	oraz materiałów szkoleniowo-dydaktycznych o tematyce związanej z celami
+	Fundacji.
+	5. Podejmowanie działań zmierzających do podnoszenia kwalifikacji
+	przedsiębiorców i pracowników w zakresie obejmującym cele Fundacji.
+	6. Podejmowanie działań, w tym organizowanie spotkań, służących wymianie
+	doświadczeń osób i podmiotów prowadzących działalność w zakresie
+	zbieżnym z celami Fundacji, a także upowszechniania tych doświadczeń.
+	7. Podejmowanie działań wspomagających rozwój gospodarczy, w tym rozwój
+	przedsiębiorczości.
+	8. Skupianie wokół Fundacji ludzi w Polsce i poza jej granicami, w tym
+	w szczególności przedsiębiorców i pracowników z szeroko rozumianego
+	środowiska informatycznego oraz przedstawicieli środowisk intelektualnych
+	i naukowych.
+	9. Organizowanie i udział w akcjach oraz kampaniach społecznych, seminariach,
+	pokazach, imprezach edukacyjnych i kulturalnych.
+	10. Organizowanie konkursów, przyznawanie nagród i stypendiów w zakresie
+	obejmującym cele Fundacji.
+	11. Organizowanie akcji medialnych (kampanii informacyjnych i akcji
+	społecznych) promujących działania lub cele Fundacji. 
+	12. Współpracę z innymi podmiotami prowadzącymi działalność wspomagającą
+	lub obejmującą cele Fundacji.
+	13. Upowszechnianie w Internecie, w środkach masowego przekazu, w formie
+	audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów
+	prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą
+	wydawnictw wiedzy w zakresie objętym celami Fundacji. *
 
+2. Fundacja realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej 
+działalności pożytku publicznego w zakresie wskazanym w ust. 1.
+3. Fundacja realizuje swoje cele także poprzez członkowstwo w organizacjach 
+zrzeszających organizacje polskie i zagraniczne o celach statutowych zbieżnych 
+lub tożsamych z celami Fundacji.
 
-Rozdział III: Majątek i dochody fundacji
+## §10 Współpraca w realizacji celu/celów
+Dla osiągnięcia swoich celi Fundacja może wspierać działalność 
+innych osób prawnych oraz osób fizycznych, 
+których działalność jest zbieżna z jej celami. 
 
+# Rozdział III: Majątek i dochody Fundacji
 
-§11 Fundusz założycielski i przepływy majątkowe
+## §11 Fundusz założycielski i przepływy majątkowe
+1. Majątek Fundacji stanowi Fundusz założycielski w kwocie ... 
+(słownie: ... PLN) złotych oraz środki finansowe, 
+nieruchomości i ruchomości nabyte przez Fundacje w toku jej działania. 
+2. Środki na realizację celów Fundacji i pokrycie kosztów jej działalności pochodzą z:
+a) funduszu założycielskiego i darowizn Fundatorów,
+b) darowizn, subwencji, spadków i zapisów,
+c) subwencji osób prawnych,
+d) dochodów z majątku nieruchomego i ruchomego,
+e) aukcji internetowych,
+f) dochodów z darów, zbiórek i imprez publicznych,
+g) odsetek i depozytów bankowych,
+h) z działalności odpłatnej pożytku publicznego. 
+i) * ... działalności gospodarczej ??? *
+3. Dochody pochodzące z subwencji, darowizn, spadków i zapisów mogą być użyte na
+wybrane przez Fundację, dowolne działanie związane z realizacją celów Fundacji,
+o ile ofiarodawcy nie postanowili inaczej. 
+4. W przypadku powołania Fundacji do dziedziczenia Zarząd składa oświadczenie
+o przyjęciu spadku z dobrodziejstwem inwentarza i to tylko wówczas, gdy w chwili
+składania tego oświadczenia jest oczywiste, że stan czynny spadku znacznie
+przewyższa długi spadkowe. 
 
+## §12 Powiernictwo środków
+Fundacja może gromadzić swoje fundusze w walucie polskiej oraz w walutach obcych
+we właściwych bankach zgodnie z przepisami prawa. 
 
-§12 Powiernictwo środków #KontaBankowe
-§13 Działalność/niedziałalność gospodarcza
+## §13 Działalność gospodarcza
+1. Fundacja prowadzi / nie prowadzi (!) działalności gospodarczej.
+2. Przychód z działalności odpłatnej pożytku publicznego służy wyłąćznie realizacji
+celów Fundacji.
 
+## §14 Odpowiedzialność za zobowiązania
+Fundacja odpowiada za swoje zobowiązania całym majątkiem.
 
-§14 Odpowiedzialność za zobowiązania
-
-
-Rozdział IV: Organy fundacji
-
+# Rozdział IV: Organy Fundacji
 
 §15 Zarząd
 
-
 §16 Członkowie zarządu
-
 
 §17 Fundatorzy
 
-
 §18 Zadania zarządu
-
 
 §19 Prezes i wiceprezes 
 
-
 §20 Składanie oświadczeń woli i zwykły zarząd
 
-
 Rozdział V: Zmiana statutu
- §21 Zmiana statutu
 
+§21 Zmiana statutu
 
 Rozdział VI: Postanowienia końcowe
+
 §22 Połączenia i fuzje
 
-
-§23 Likwidacja fundacji
+§23 Likwidacja Fundacji

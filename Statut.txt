@@ -1,20 +1,24 @@
-﻿Rozdział I: niezbędne podstawy
+﻿# Rozdział I: niezbędne podstawy
 
+## §1 Podstawowe informacje
+Podstawowe Fundacja pod nazwą ..., zwana dalej „Fundacją”,
+ustanowiona przez ..., zwanych dalej „Fundatorami”,
+aktem notarialnym sporządzonym w ... dnia ... roku,
+działa na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. 1991, Nr 46, poz. 203, wraz z późniejszymi zmianami) 
+oraz niniejszego Statutu. 
 
-§1 Podstawowe informacje
+## §2 Osobowość prawna 
+Fundacja posiada osobowość prawną
 
+## §3 Siedziba fundacji
+Siedzibą fundacji jest miasto Poznań
 
-Podstawowe Fundacja pod nazwą ……………………………………………, zwana dalej „Fundacją”, ustanowiona przez ………………………………………………….., zwanych dalej „Fundatorami”, aktem notarialnym sporządzonym w ………………………………………….. dnia ……………………… roku, działa na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. 1991, Nr 46, poz. 203, wraz z późniejszymi zmianami) oraz niniejszego Statutu. 
-
-
-§2 Osobowość prawna
-
-
-§3 Siedziba fundacji
-
-
-§4 Obszar działalności
-
+## §4 Teren działalności
+> 1.Terenem działalności fundacji jest obszar Rzeczpospolitej Polskiej, 
+przy czym w zakresie niezbędnym dla właściwego realizowania celów 
+może ona także prowadzić działalnośći, także poza granicami Rzeczpospolitej Polskiej.
+> 2. Fundacja może dla celów współpracy z zagranicą posługiwać się 
+tłumaczeniem nazwy w wybranych językach.
 
 §5 Minister odpowiedzialny za fundację
 

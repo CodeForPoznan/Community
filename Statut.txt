@@ -1,11 +1,7 @@
-﻿s# Rozdział I: Podstawowe informacje
+﻿# Rozdział I: Podstawowe informacje
 
 ## §1 Podstawowe informacje
-Podstawowe Fundacja pod nazwą ..., zwana dalej „Fundacją”,
-ustanowiona przez ..., zwanych dalej „Fundatorami”,
-aktem notarialnym sporządzonym w ... dnia ... roku,
-działa na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. 1991, Nr 46, poz. 203, wraz z późniejszymi zmianami) 
-oraz niniejszego Statutu. 
+Podstawowe Fundacja pod nazwą ..., zwana dalej „Fundacją”, ustanowiona przez ..., zwanych dalej „Fundatorami”, aktem notarialnym sporządzonym w ... dnia ... roku, działa na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. 1991, Nr 46, poz. 203, wraz z późniejszymi zmianami) oraz niniejszego Statutu. 
 
 ## §2 Osobowość prawna 
 Fundacja posiada osobowość prawną
@@ -14,37 +10,26 @@ Fundacja posiada osobowość prawną
 Siedzibą Fundacji jest miasto Poznań
 
 ## §4 Teren działalności
-1.Terenem działalności Fundacji jest obszar Rzeczpospolitej Polskiej, 
-przy czym w zakresie niezbędnym dla właściwego realizowania celów 
-może ona także prowadzić działalnośći, także poza granicami Rzeczpospolitej Polskiej.
-2. Fundacja może dla celów współpracy z zagranicą posługiwać się 
-tłumaczeniem nazwy w wybranych językach.
+1. Terenem działalności Fundacji jest obszar Rzeczpospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów może ona także prowadzić działalnośći, także poza granicami Rzeczpospolitej Polskiej.
+2. Fundacja może dla celów współpracy z zagranicą posługiwać się tłumaczeniem nazwy w wybranych językach.
 
 ## §5 Minister odpowiedzialny za Fundację
 Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki
 
 ## §6 Identyfikacja/nazwa Fundacji
 1. Pełną nazwą Fundacji jest ...
-2. Fundacja może się posługiwać nazwą skróconą ...
-oraz wyróżniającym ją znakiem graficznym.
+2. Fundacja może się posługiwać nazwą skróconą ... oraz wyróżniającym ją znakiem graficznym.
 3. Fundacja używa pieczęci z oznakowaniem pełnej nazwy Fundacji oraz jej siedziby.
 
 ## §7 Oznaczenia i wyróżnienia #przypinki
-Fundacja może ustanowić odznaki oraz medale honorowe 
-i przyznawać je wraz z innymi nagrodami i wyróżnieniami, 
-osobom fizycznym i prawnym, zasłużonym dla celów obranych
-przez Fundacje lub dla samej Fundacji. 
+Fundacja może ustanowić odznaki oraz medale honorowe i przyznawać je wraz z innymi nagrodami i wyróżnieniami, osobom fizycznym i prawnym, zasłużonym dla celów obranych przez Fundacje lub dla samej Fundacji. 
 
 # Rozdział II: Cele i zasady działania Fundacji
 
 ## §8 Cel Fundacji
 Celem Fundacji jest...
 
-Przykład: *"Celami Fundacji są: działalność wspomagająca rozwój techniki, 
-wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych
-w praktyce gospodarczej w zakresie procesów i technik wytwarzania oprogramowania
-komputerowego; polegająca na prowadzeniu działań edukacyjnych, informacyjnych,
-doradczych, szkoleniowych, wychowawczych, badawczo-rozwojowych i naukowych."*
+Przykład: *"Celami Fundacji są: działalność wspomagająca rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce gospodarczej w zakresie procesów i technik wytwarzania oprogramowania komputerowego; polegająca na prowadzeniu działań edukacyjnych, informacyjnych, doradczych szkoleniowych, wychowawczych, badawczo-rozwojowych i naukowych."*
 
 Wasza narracja: *"..."*
 
@@ -54,56 +39,30 @@ Wasza narracja: *"..."*
 1. Fundacja realizuje swoje cele poprzez: ...
 
 	* Przykład:
-	1. Organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa
-	specjalistycznego oraz publikacji materiałów związanych z celami Fundacji.
-	2. Prowadzenie lub wsparcie badań naukowych i rozwojowych związanych
-	z celami Fundacji oraz podejmowanie działań zmierzających
-	do rozpowszechnienia ich wyników.
+	1. Organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa specjalistycznego oraz publikacji materiałów związanych z celami Fundacji.
+	2. Prowadzenie lub wsparcie badań naukowych i rozwojowych związanych z celami Fundacji oraz podejmowanie działań zmierzających do rozpowszechnienia ich wyników.
 	3. Gromadzenie i przetwarzanie danych dla realizacji celów Fundacji.
-	4. Publikacja wyników badań i opracowań, podsumowań gromadzonych danych,
-	oraz materiałów szkoleniowo-dydaktycznych o tematyce związanej z celami
-	Fundacji.
-	5. Podejmowanie działań zmierzających do podnoszenia kwalifikacji
-	przedsiębiorców i pracowników w zakresie obejmującym cele Fundacji.
-	6. Podejmowanie działań, w tym organizowanie spotkań, służących wymianie
-	doświadczeń osób i podmiotów prowadzących działalność w zakresie
-	zbieżnym z celami Fundacji, a także upowszechniania tych doświadczeń.
-	7. Podejmowanie działań wspomagających rozwój gospodarczy, w tym rozwój
-	przedsiębiorczości.
-	8. Skupianie wokół Fundacji ludzi w Polsce i poza jej granicami, w tym
-	w szczególności przedsiębiorców i pracowników z szeroko rozumianego
-	środowiska informatycznego oraz przedstawicieli środowisk intelektualnych
-	i naukowych.
-	9. Organizowanie i udział w akcjach oraz kampaniach społecznych, seminariach,
-	pokazach, imprezach edukacyjnych i kulturalnych.
-	10. Organizowanie konkursów, przyznawanie nagród i stypendiów w zakresie
-	obejmującym cele Fundacji.
-	11. Organizowanie akcji medialnych (kampanii informacyjnych i akcji
-	społecznych) promujących działania lub cele Fundacji. 
-	12. Współpracę z innymi podmiotami prowadzącymi działalność wspomagającą
-	lub obejmującą cele Fundacji.
-	13. Upowszechnianie w Internecie, w środkach masowego przekazu, w formie
-	audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów
-	prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą
-	wydawnictw wiedzy w zakresie objętym celami Fundacji. *
+	4. Publikacja wyników badań i opracowań, podsumowań gromadzonych danych, oraz materiałów szkoleniowo-dydaktycznych o tematyce związanej z celami Fundacji.
+	5. Podejmowanie działań zmierzających do podnoszenia kwalifikacji przedsiębiorców i pracowników w zakresie obejmującym cele Fundacji.
+	6. Podejmowanie działań, w tym organizowanie spotkań, służących wymianie doświadczeń osób i podmiotów prowadzących działalność w zakresie zbieżnym z celami Fundacji, a także upowszechniania tych doświadczeń.
+	7. Podejmowanie działań wspomagających rozwój gospodarczy, w tym rozwój przedsiębiorczości.
+	8. Skupianie wokół Fundacji ludzi w Polsce i poza jej granicami, w tym w szczególności przedsiębiorców i pracowników z szeroko rozumianego środowiska informatycznego oraz przedstawicieli środowisk intelektualnych i naukowych.
+	9. Organizowanie i udział w akcjach oraz kampaniach społecznych, seminariach, pokazach, imprezach edukacyjnych i kulturalnych.
+	10. Organizowanie konkursów, przyznawanie nagród i stypendiów w zakresie obejmującym cele Fundacji.
+	11. Organizowanie akcji medialnych (kampanii informacyjnych i akcji społecznych) promujących działania lub cele Fundacji. 
+	12. Współpracę z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Fundacji.
+	13. Upowszechnianie w Internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Fundacji. *
 
-2. Fundacja realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej 
-działalności pożytku publicznego w zakresie wskazanym w ust. 1.
-3. Fundacja realizuje swoje cele także poprzez członkowstwo w organizacjach 
-zrzeszających organizacje polskie i zagraniczne o celach statutowych zbieżnych 
-lub tożsamych z celami Fundacji.
+2. Fundacja realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w ust. 1.
+3. Fundacja realizuje swoje cele także poprzez członkowstwo w organizacjach zrzeszających organizacje polskie i zagraniczne o celach statutowych zbieżnych lub tożsamych z celami Fundacji.
 
 ## §10 Współpraca w realizacji celu/celów
-Dla osiągnięcia swoich celi Fundacja może wspierać działalność 
-innych osób prawnych oraz osób fizycznych, 
-których działalność jest zbieżna z jej celami. 
+Dla osiągnięcia swoich celi Fundacja może wspierać działalność innych osób prawnych oraz osób fizycznych, których działalność jest zbieżna z jej celami. 
 
 # Rozdział III: Majątek i dochody Fundacji
 
 ## §11 Fundusz założycielski i przepływy majątkowe
-1. Majątek Fundacji stanowi Fundusz założycielski w kwocie ... 
-(słownie: ... PLN) złotych oraz środki finansowe, 
-nieruchomości i ruchomości nabyte przez Fundacje w toku jej działania. 
+1. Majątek Fundacji stanowi Fundusz założycielski w kwocie ... (słownie: ... PLN) złotych oraz środki finansowe, nieruchomości i ruchomości nabyte przez Fundacje w toku jej działania. 
 2. Środki na realizację celów Fundacji i pokrycie kosztów jej działalności pochodzą z:
 	a) funduszu założycielskiego i darowizn Fundatorów,
 	b) darowizn, subwencji, spadków i zapisów,
@@ -114,22 +73,15 @@ nieruchomości i ruchomości nabyte przez Fundacje w toku jej działania.
 	g) odsetek i depozytów bankowych,
 	h) z działalności odpłatnej pożytku publicznego. 
 	i) * ... działalności gospodarczej ??? *
-3. Dochody pochodzące z subwencji, darowizn, spadków i zapisów mogą być użyte na
-wybrane przez Fundację, dowolne działanie związane z realizacją celów Fundacji,
-o ile ofiarodawcy nie postanowili inaczej. 
-4. W przypadku powołania Fundacji do dziedziczenia Zarząd składa oświadczenie
-o przyjęciu spadku z dobrodziejstwem inwentarza i to tylko wówczas, gdy w chwili
-składania tego oświadczenia jest oczywiste, że stan czynny spadku znacznie
-przewyższa długi spadkowe. 
+3. Dochody pochodzące z subwencji, darowizn, spadków i zapisów mogą być użyte na wybrane przez Fundację, dowolne działanie związane z realizacją celów Fundacji, o ile ofiarodawcy nie postanowili inaczej. 
+4. W przypadku powołania Fundacji do dziedziczenia Zarząd składa oświadczenie o przyjęciu spadku z dobrodziejstwem inwentarza i to tylko wówczas, gdy w chwili składania tego oświadczenia jest oczywiste, że stan czynny spadku znacznie przewyższa długi spadkowe. 
 
 ## §12 Powiernictwo środków
-Fundacja może gromadzić swoje fundusze w walucie polskiej oraz w walutach obcych
-we właściwych bankach zgodnie z przepisami prawa. 
+Fundacja może gromadzić swoje fundusze w walucie polskiej oraz w walutach obcych we właściwych bankach zgodnie z przepisami prawa. 
 
 ## §13 Działalność gospodarcza
 1. Fundacja prowadzi / nie prowadzi (!) działalności gospodarczej.
-2. Przychód z działalności odpłatnej pożytku publicznego służy wyłąćznie realizacji
-celów Fundacji.
+2. Przychód z działalności odpłatnej pożytku publicznego służy wyłąćznie realizacji celów Fundacji.
 
 ## §14 Odpowiedzialność za zobowiązania
 Fundacja odpowiada za swoje zobowiązania całym majątkiem.
@@ -141,22 +93,14 @@ Organem Fundacji jest Zarząd Fundacji.
 
 ## §16 Członkowie zarządu
 1. Zarząd Fundacji składa się z ... członków, w tym Prezesa Zarządu Fundacji.
-2. Członkowie Zarządu Fundacji powoływani i odwoływaniu są przez Fundatorów
-w drodze zgodnego oświadczenia na czas wskazany w akcie powołania. 
+2. Członkowie Zarządu Fundacji powoływani i odwoływaniu są przez Fundatorów w drodze zgodnego oświadczenia na czas wskazany w akcie powołania. 
 3. Fundator może zostać członkiem Zarządu Fundacji. 
-4. Członkowie Zarządu Fundacji mogą otrzymywać wynagrodzenie z tytułu pełnienia
-swoich funkcji.
-5. Członkostwo w Zarządzie Fundacji ustaje w przypadku odwołania, pisemnej
-rezygnacji z członkostwa lub śmierci Członka. 
+4. Członkowie Zarządu Fundacji mogą otrzymywać wynagrodzenie z tytułu pełnienia swoich funkcji.
+5. Członkostwo w Zarządzie Fundacji ustaje w przypadku odwołania, pisemnej rezygnacji z członkostwa lub śmierci Członka. 
 
 ## §17 Fundatorzy
 1. Fundator do wykonywania swoich uprawnień może powołać pełnomocnika. 
-2. W przypadku śmierci Fundatora uprawnienia przewidziane w niniejszym statucie
-dla Fundatora, wykonuje jego pełnoletnie dziecko, łącznie pełnoletnie dzieci lub do
-czasu uzyskania pełnoletności ich prawni opiekunowie. Jeżeli Fundator nie posiadał
-dzieci, jego obowiązki wykonuje żyjący małżonek, albo łącznie rodzeństwo
-Fundatora, albo łącznie pełnoletnie dzieci rodzeństwa Fundatora lub do czasu
-uzyskania pełnoletności ich prawni opiekunowie. 
+2. W przypadku śmierci Fundatora uprawnienia przewidziane w niniejszym statucie dla Fundatora, wykonuje jego pełnoletnie dziecko, łącznie pełnoletnie dzieci lub do czasu uzyskania pełnoletności ich prawni opiekunowie. Jeżeli Fundator nie posiadał dzieci, jego obowiązki wykonuje żyjący małżonek, albo łącznie rodzeństwo Fundatora, albo łącznie pełnoletnie dzieci rodzeństwa Fundatora lub do czasu uzyskania pełnoletności ich prawni opiekunowie. 
 
 ## §18 Zadania zarządu
 1. Zarząd Fundacji kieruje działalnością Fundacji i reprezentuje ją na zewnątrz. 
@@ -164,53 +108,30 @@ uzyskania pełnoletności ich prawni opiekunowie.
 	a) uchwalanie rocznych planów działania Fundacji oraz planów finansowych, 
 	b) uchwalanie regulaminów,
 	c) sprawowanie zarządu majątkiem Fundacji,
-	d) ustalanie wielkości zatrudnienia i wysokości środków na wynagrodzenia
-	pracowników Fundacji,
+	d) ustalanie wielkości zatrudnienia i wysokości środków na wynagrodzenia pracowników Fundacji,
 	e) podejmowanie decyzji w sprawach Fundacji,
 	f) przyjmowanie darowizn, spadków i zapisów, subwencji i dotacji,
-	g) występowanie z wnioskiem i wyrażanie zgody bądź odmowy w sprawie zmian
-	statutu Fundacji, połączenia z inną Fundacją oraz likwidacja Fundacji,
+	g) występowanie z wnioskiem i wyrażanie zgody bądź odmowy w sprawie zmian statutu Fundacji, połączenia z inną Fundacją oraz likwidacja Fundacji,
 	h) składanie sprawozdań wymaganych prawem. 
-3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą
-większością głosów.
+3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą większością głosów.
 4. O posiedzeniu muszą być powiadomieni wszyscy członkowie Zarządu.
-5. Zarząd może powoływać pełnomocników do kierowania wyodrębnioną sferą spraw
-należących do zadań Zarządu Fundacji.  
+5. Zarząd może powoływać pełnomocników do kierowania wyodrębnioną sferą spraw należących do zadań Zarządu Fundacji.  
 
 ## §19 Prezes i wiceprezes 
-1. Zarządowi przewodniczy Prezes Zarządu Fundacji, wskazywany przez Fundatorów
-w akcie powołania Zarządu.
-2. Prezes Zarządu Fundacji zwołuje posiedzenia Zarządu Fundacji z własnej inicjatywy,
-bądź na wniosek każdego z pozostałych członków Zarządu Fundacji, nie rzadziej niż
-raz na pół roku.
-3. Prezes Zarządu Fundacji może powołać Wiceprezesa Zarządu Fundacji spośród
-pozostałych członków Zarządu, który wykonuje obowiązki Prezesa podczas jego
-niemożności działania lub w zakresie mu powierzonym. 
+1. Zarządowi przewodniczy Prezes Zarządu Fundacji, wskazywany przez Fundatorów w akcie powołania Zarządu.
+2. Prezes Zarządu Fundacji zwołuje posiedzenia Zarządu Fundacji z własnej inicjatywy, bądź na wniosek każdego z pozostałych członków Zarządu Fundacji, nie rzadziej niż raz na pół roku.
+3. Prezes Zarządu Fundacji może powołać Wiceprezesa Zarządu Fundacji spośród pozostałych członków Zarządu, który wykonuje obowiązki Prezesa podczas jego niemożności działania lub w zakresie mu powierzonym. 
 
 ## §20 Składanie oświadczeń woli i zwykły zarząd
-1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych
-i niemajątkowych w zakresie zwykłego zarządu uprawniony jest Prezes Zarządu
-Fundacji samodzielnie.
-2. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych
-i niemajątkowych w zakresie przekraczającym zwykły zarząd uprawnieni są łącznie
-wszyscy Członkowie Zarządu Fundacji. 
+1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych w zakresie zwykłego zarządu uprawniony jest Prezes Zarządu Fundacji samodzielnie.
+2. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych w zakresie przekraczającym zwykły zarząd uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji. 
 3. Sprawy przekraczające zwykły zarząd:
-	a) dokonanie czynności prawnej nie wynikających z planów działania 
-	lub planów finansowych Fundacji;
-	b) dokonanie czynności prawnej o wartości przekraczającej 10 000 
-	(słownie: dziesięć tysięcy PLN) zł, przy czym waluty obce 
-	przeliczać należy według kursu średniego NBP 
-	z dnia dokonania czynności prawnej;
-	c) dokonanie czynności prawnej zobowiązującej Fundację do jakiegokolwiek
-	świadczenia w terminie ponad jednego roku od dnia dokonania czynności
-	prawnej;
-	d) zaciągnięcie kredytu lub innego podobnego zobowiązania w bankach
-	i instytucjach finansowych;
-	e) dokonanie czynności prawnej, których dokonaniu sprzeciwił się 
-	którykolwiek z członków Zarządu.
-4. O działaniach podejmowanych w zakresie zwykłego zarządu Prezes Zarządu Fundacji
-powinien poinformować Zarząd na najbliższym posiedzeniu Zarządu Fundacji. 
-
+	a) dokonanie czynności prawnej nie wynikających z planów działania lub planów finansowych Fundacji;
+	b) dokonanie czynności prawnej o wartości przekraczającej 10 000 (słownie: dziesięć tysięcy PLN) zł, przy czym waluty obce przeliczać należy według kursu średniego NBP z dnia dokonania czynności prawnej;
+	c) dokonanie czynności prawnej zobowiązującej Fundację do jakiegokolwiek świadczenia w terminie ponad jednego roku od dnia dokonania czynności prawnej;
+	d) zaciągnięcie kredytu lub innego podobnego zobowiązania w bankach i instytucjach finansowych;
+	e) dokonanie czynności prawnej, których dokonaniu sprzeciwił się którykolwiek z członków Zarządu.
+4. O działaniach podejmowanych w zakresie zwykłego zarządu Prezes Zarządu Fundacji powinien poinformować Zarząd na najbliższym posiedzeniu Zarządu Fundacji. 
 
 # Rozdział V: Zmiana statutu
 
@@ -220,24 +141,16 @@ Decyzje w przedmiocie zmiany Statutu podejmuje jednomyślnie Zarząd Fundacji.
 # Rozdział VI: Postanowienia końcowe
 
 ## §22 Połączenia i fuzje
-1. Dla efektywnego realizowania swoich celów Fundacja może połączyć się z inną
-Fundacją. [(!) a co z przemianą w stowarzyszenie?] 
-2. Połączenie nie może nastąpić, jeśli w jego wyniku mogłyby ulec istotnej zmianie cele
-Fundacji.
-3. Decyzje w przedmiocie połączenia podejmuje Zarząd Fundacji w drodze uchwały
-podjętej na zasadach opisanych w § 21. 
+1. Dla efektywnego realizowania swoich celów Fundacja może połączyć się z inną Fundacją. [(!) a co z przemianą w stowarzyszenie?] 
+2. Połączenie nie może nastąpić, jeśli w jego wyniku mogłyby ulec istotnej zmianie cele Fundacji.
+3. Decyzje w przedmiocie połączenia podejmuje Zarząd Fundacji w drodze uchwały podjętej na zasadach opisanych w § 21. 
 
 ## §23 Likwidacja Fundacji
-1. Fundacja ulega likwidacji w razie osiągnięcia celów, dla których została 
-powołana lub w razie wyczerpania się jej środków finansowych i majątku.
-2. Decyzję w przedmiocie likwidacji Fundacji podejmuje Zarząd Fundacji w drodze
-uchwały na zasadach opisanych w § 21. 
+1. Fundacja ulega likwidacji w razie osiągnięcia celów, dla których została powołana lub w razie wyczerpania się jej środków finansowych i majątku.
+2. Decyzję w przedmiocie likwidacji Fundacji podejmuje Zarząd Fundacji w drodze uchwały na zasadach opisanych w § 21. 
 
 ## §24 Majątek po likwidacji
-Majątek pozostały po likwidacji Fundacji przekazuje się, z zastrzeżeniem treści art. 5 ust.4
-ustawy o fundacjach, instytucjom, których działalność odpowiada celom Fundacji,
-wskazanym przez Zarząd Fundacji.
+Majątek pozostały po likwidacji Fundacji przekazuje się, z zastrzeżeniem treści art. 5 ust.4 ustawy o fundacjach, instytucjom, których działalność odpowiada celom Fundacji, wskazanym przez Zarząd Fundacji.
 
 ## §25 Wejście w życie
-Statut wchodzi w życie z dniem zarejestrowania Fundacji przez Sąd właściwy dla siedziby
-Fundacji. 
+Statut wchodzi w życie z dniem zarejestrowania Fundacji przez Sąd właściwy dla siedziby Fundacji. 

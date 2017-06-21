@@ -29,6 +29,7 @@ najlepiej, gdyby to robiły dwie osoby, jedna od spraw technicznych, druga od og
 ###### Część III - kwestie techniczne
 to już Magul musi napisać – generalnie, te wszystkie django, pythony i githuby
 
+
 Dopiero po takim wprowadzeniu (i zapewnieniu, że chętnie odpowiemy na wszystkie pytania i wyjaśnimy niejasności) nowa osoba może zacząć uczestniczyć w spotkaniu (np. podsumowaniu – nie wiem, ile może trwać onboarding, to chyba kwestia indywidualna). Jeśli dana osoba potrzebuje wsparcia technicznego, może jej od razu wyznaczyć mentora?
 
 Pytanie, czy przyda nam się prezentacja do onboardingu, myślę, że raczej nie, bo to od razu sformalizuje spotkanie.

@@ -26,7 +26,7 @@ najlepiej, gdyby to robiły dwie osoby, jedna od spraw technicznych, druga od og
 - co poza Volontulo – czy są jakieś inne projekty, kiedy będą, od czego zależy, że będą
 - czy można przynieść swój projekt i go realizować
 
-##### Część III - kwestie techniczne
+###### Część III - kwestie techniczne
 to już Magul musi napisać – generalnie, te wszystkie django, pythony i githuby
 
 Dopiero po takim wprowadzeniu (i zapewnieniu, że chętnie odpowiemy na wszystkie pytania i wyjaśnimy niejasności) nowa osoba może zacząć uczestniczyć w spotkaniu (np. podsumowaniu – nie wiem, ile może trwać onboarding, to chyba kwestia indywidualna). Jeśli dana osoba potrzebuje wsparcia technicznego, może jej od razu wyznaczyć mentora?

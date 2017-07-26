@@ -1,42 +1,42 @@
-﻿# Rozdział I: Podstawowe informacje
+﻿Rozdział I: Podstawowe informacje
 
-## §1 Podstawowe informacje
+§1 Podstawowe informacje
 Podstawowe Fundacja pod nazwą ..., zwana dalej „Fundacją”, ustanowiona przez ..., zwanych dalej „Fundatorami”, aktem notarialnym sporządzonym w ... dnia ... roku, działa na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. 1991, Nr 46, poz. 203, wraz z późniejszymi zmianami) oraz niniejszego Statutu. 
 
-## §2 Osobowość prawna 
+§2 Osobowość prawna 
 Fundacja posiada osobowość prawną
 
-## §3 Siedziba Fundacji
+§3 Siedziba Fundacji
 Siedzibą Fundacji jest miasto Poznań
 
-## §4 Teren działalności
+§4 Teren działalności
 1. Terenem działalności Fundacji jest obszar Rzeczpospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów może ona także prowadzić działalnośći, także poza granicami Rzeczpospolitej Polskiej.
 2. Fundacja może dla celów współpracy z zagranicą posługiwać się tłumaczeniem nazwy w wybranych językach.
 
-## §5 Minister odpowiedzialny za Fundację
+§5 Minister odpowiedzialny za Fundację
 Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki
 
-## §6 Identyfikacja/nazwa Fundacji
+§6 Identyfikacja/nazwa Fundacji
 1. Pełną nazwą Fundacji jest ...
 2. Fundacja może się posługiwać nazwą skróconą ... oraz wyróżniającym ją znakiem graficznym.
 3. Fundacja używa pieczęci z oznakowaniem pełnej nazwy Fundacji oraz jej siedziby.
 
-## §7 Oznaczenia i wyróżnienia #przypinki
+§7 Oznaczenia i wyróżnienia #przypinki
 Fundacja może ustanowić odznaki oraz medale honorowe i przyznawać je wraz z innymi nagrodami i wyróżnieniami, osobom fizycznym i prawnym, zasłużonym dla celów obranych przez Fundacje lub dla samej Fundacji. 
 
-# Rozdział II: Cele i zasady działania Fundacji
+Rozdział II: Cele i zasady działania Fundacji
 
-## §8 Cel Fundacji
-Celem Fundacji jest...
+§8 Cel Fundacji
+Celem Fundacji jest udzielanie wsparcia w rozpowszechnianiu i wdrażaniu nowych rozwiązań technologicznych i informatycznych, pośród społeczności lokalnych i podmiotów, realizujących zadania społecznie użyteczne, poprzez wykorzystanie wiedzy programistycznej i tworzenie oprogramowania, odpowiadającego na problemy społeczne, sprzyjającego aktywności lokalnej i promującego odpowiedzialność za wspólne otoczenie w praktyce społecznej oraz gospodarczej.
 
-Przykład: *"Celami Fundacji są: działalność wspomagająca rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce gospodarczej w zakresie procesów i technik wytwarzania oprogramowania komputerowego; polegająca na prowadzeniu działań edukacyjnych, informacyjnych, doradczych szkoleniowych, wychowawczych, badawczo-rozwojowych i naukowych."*
-
-Wasza narracja: *"..."*
-
-Ściągawka: Ustawa o działalności pożytku publicznego 2003
-
-## §9 Realizacja celu
+§9 Realizacja celu
 1. Fundacja realizuje swoje cele poprzez: ...
+
+
+Chcemy budować narzędzia oparte o analizę problemów społecznych, które w przystępny sposób pozwolą członkom środowisk na rozwiązywanie codziennych trudności. Zakładamy, że w ten sposób obywatel będzie miał większą możliwość na uczestniczenie w lokalnych dyskusjach, mieć wpływ na wygląd swojego otoczenia czy kontrolowania jednostek państwa w kontekście wydawania pieniędzy publicznych. Dzięki prostym i nowoczesnym aplikacjom oraz zaangażowaniu jednostek w życie publiczne chcemy budować lepsze społeczeństwo.
+
+
+
 
 	* Przykład:
 	1. Organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa specjalistycznego oraz publikacji materiałów związanych z celami Fundacji.
@@ -96,7 +96,8 @@ Organem Fundacji jest Zarząd Fundacji.
 2. Członkowie Zarządu Fundacji powoływani i odwoływaniu są przez Fundatorów w drodze zgodnego oświadczenia na czas wskazany w akcie powołania. 
 3. Fundator może zostać członkiem Zarządu Fundacji. 
 4. Członkowie Zarządu Fundacji mogą otrzymywać wynagrodzenie z tytułu pełnienia swoich funkcji.
-5. Członkostwo w Zarządzie Fundacji ustaje w przypadku odwołania, pisemnej rezygnacji z członkostwa lub śmierci Członka. 
+5. Członkostwo w Zarządzie Fundacji ustaje w przypadku odwołania, pisemnej rezygnacji z członkostwa lub śmierci Członka. 
+
 
 ## §17 Fundatorzy
 1. Fundator do wykonywania swoich uprawnień może powołać pełnomocnika. 

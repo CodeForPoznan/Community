@@ -8,22 +8,22 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 Example config for proper Github flow.
 
-
-[core]<br>
-        repositoryformatversion = 0<br>
-        filemode = true<br>
-        bare = false<br>
-        logallrefupdates = true<br>
-[remote "origin"]<br>
-        url = git@github.com:w1stler/project_name.git<br>
-        fetch = +refs/heads/*:refs/remotes/origin/*<br>
-[branch "master"]<br>
-        remote = origin<br>
-        merge = refs/heads/master<br>
-[remote "upstream"]<br>
-        url = git@github.com:CodeForPoznan/project_name.git<br>
-        fetch = +refs/heads/*:refs/remotes/upstream/*<br>
-
+```
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = git@github.com:w1stler/project_name.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+[remote "upstream"]
+        url = git@github.com:CodeForPoznan/project_name.git
+        fetch = +refs/heads/*:refs/remotes/upstream/*
+```
 
 Example commands:
 

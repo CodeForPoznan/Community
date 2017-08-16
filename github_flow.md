@@ -2,7 +2,7 @@
 
 ## We have agreed, that we will work using Github flow. Simple instructions can be found below.
 
-In short words, we are forking repository from Code for Poznan organisation to our repository, push the changes there and create pull requests from our branches (eg. ``w1stler:sample_branch``) to ``codeforpoznan:master``. 
+In short words, we are forking repository from Code for Poznan organisation to our repository, push the changes there and create pull requests from our branches (eg. `w1stler:sample_branch`) to `codeforpoznan:master`. 
 
 ## Link for reference: https://guides.github.com/introduction/flow/
 
@@ -10,26 +10,7 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 1. Fork repository from Code for Poznań
 2. Clone your (forked) repository to local computer
-3. Add upstream remote by executing command ``git remote add upstream git@github.com:CodeForPoznan/project_name.git``
-
-### Example config for proper Github flow after changes.
-
-```
-[core]
-        repositoryformatversion = 0
-        filemode = true
-        bare = false
-        logallrefupdates = true
-[remote "origin"]
-        url = git@github.com:w1stler/project_name.git
-        fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
-        remote = origin
-        merge = refs/heads/master
-[remote "upstream"]
-        url = git@github.com:CodeForPoznan/project_name.git
-        fetch = +refs/heads/*:refs/remotes/upstream/*
-```
+3. Add upstream remote by executing command `git remote add upstream git@github.com:CodeForPoznan/project_name.git`
 
 ### How to be up-to-date with upstream repository?
 

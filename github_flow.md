@@ -6,13 +6,13 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 ## Link for reference: https://guides.github.com/introduction/flow/
 
-How to setup your local repository?
+### How to setup your local repository?
 
 1. Fork repository from Code for Poznań
 2. Clone your (forked) repository to local computer
 3. Add upstream remote by executing command ``git remote add upstream git@github.com:CodeForPoznan/project_name.git``
 
-Example config for proper Github flow after changes.
+### Example config for proper Github flow after changes.
 
 ```
 [core]
@@ -31,7 +31,7 @@ Example config for proper Github flow after changes.
         fetch = +refs/heads/*:refs/remotes/upstream/*
 ```
 
-How to be up-to-date with upstream repository?
+### How to be up-to-date with upstream repository?
 
 1. `git fetch upstream`
   * To fetch upstream repository (newest changes from master branch from upstream repository - in that case Code for Poznan's main branch for particular project)
@@ -40,7 +40,7 @@ How to be up-to-date with upstream repository?
 3. `git push`
   * to push all of the changes to forked repository
 
-How to propose change in upstream repository?
+### How to propose change in upstream repository?
 
 1. create your own branch 
   * `git checkout -b name_of_your_branch`

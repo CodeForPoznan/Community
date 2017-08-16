@@ -32,4 +32,4 @@ In short words, we are forking repository from Code for Poznan organisation to o
   * `git commit -m "message that explains the commit"`
 5. push the changes to your own repository
   * `git push origin name_of_your_branch`
-6. go to Github website and create Pull Request from head eg. w1stler:sample_branch to base codeforpoznan:master
+6. go to Github website and create Pull Request from head eg. `w1stler:sample_branch` to base `codeforpoznan:master`

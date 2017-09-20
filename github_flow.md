@@ -10,14 +10,14 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 1. Fork repository from Code for Poznań
 2. Clone your (forked) repository to local computer
-3. Add upstream remote by executing command `git remote add upstream git@github.com:CodeForPoznan/project_name.git`
+3. Add upstream remote by executing command `git remote add upstream https://github.com/CodeForPoznan/project_name.git`
 
 ### How to be up-to-date with upstream repository?
 
 1. `git fetch upstream`
   * To fetch upstream repository (newest changes from master branch from upstream repository - in that case Code for Poznan's main branch for particular project)
 2. `git merge upstream/master`
-  * To merge all the changes from upstream repository to master branch
+  * To merge all the changes from upstream repository to your master branch
 3. `git push`
   * to push all of the changes to forked repository
 

@@ -25,11 +25,13 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 1. create your own branch 
   * `git checkout -b name_of_your_branch`
-2. make changes in the code
-3. add the changes
+2. push the current branch on github
+  * `git push —set-upstream origin name_of_your_branch`
+3. make changes in the code
+4. add the changes
   * `git add name_of_the_file`
-4. commit the files 
+5. commit the files 
   * `git commit -m "message that explains the commit"`
-5. push the changes to your own repository
+6. push the changes to your own repository
   * `git push origin name_of_your_branch`
-6. go to Github website and create Pull Request from head eg. `w1stler:sample_branch` to base `codeforpoznan:master`
+7. go to Github website and create Pull Request from head eg. `w1stler:sample_branch` to base `codeforpoznan:master`

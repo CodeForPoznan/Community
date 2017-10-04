@@ -13,7 +13,7 @@ Docker and Docker Compose installation manual
 
 	$ sudo apt-get update
 
-3.Install packages to allow apt to use a repository over HTTPS:
+3. Install packages to allow apt to use a repository over HTTPS:
 
 	$ sudo  apt-get install \
          	apt-transport-https \
@@ -93,7 +93,7 @@ Docker and Docker Compose installation manual
 
  	$ sudo apt install docker-compose 
 
-11.Setup environment:
+11. Setup environment:
 
  	From downloaded source code run:
 

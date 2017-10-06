@@ -1,4 +1,4 @@
-##Docker and Docker Compose installation manual
+## Docker and Docker Compose installation manual
 
 Source website:
 	https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
@@ -13,7 +13,7 @@ Source website:
 
 	$ sudo apt-get update
 
-**3.Install packages to allow apt to use a repository over HTTPS:**
+**3. Install packages to allow apt to use a repository over HTTPS:**
 
 	$ sudo  apt-get install \
          	apt-transport-https \
@@ -35,7 +35,7 @@ Open following URL in browser(Chrome, if possible): https://download.docker.com/
 
 	$ sudo apt-key fingerprint 0EBFCD88
 
-You should get sth like this:
+You should get something like this:
 
 	pub   4096R/0EBFCD88 2017-02-22
 	      Key fingerprint = 9DC8 5822 9FC7 DD38 854A  E2D8 8D81 803C 0EBF CD88
@@ -93,7 +93,7 @@ If testing on a virtual machine, it may be necessary to restart the virtual mach
 
  	$ sudo apt install docker-compose 
 
-**11.Setup environment:**
+**11. Setup environment:**
 
  From downloaded source code run:
 
@@ -104,7 +104,7 @@ and point your browser to [http://localhost:8000](http://localhost:8000) and [ht
 
 **12. Enjoy!**
 
-##Alternative method
+## Alternative method
 
 **0. Open terminal.**
 
@@ -113,4 +113,4 @@ Type in the following commands:
 	$sudo apt-get install docker
 	$sudo apt-get install docker-compose 
 
-**1.Enjoy!**
+**1. Enjoy!**

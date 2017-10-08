@@ -14,11 +14,14 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 ### How to be up-to-date with upstream repository?
 
-1. `git fetch upstream`
+1. `git status`
+  * To make sure you are on master branch. If not:
+     `git checkout master` to switch your current branch to master
+2. `git fetch upstream`
   * To fetch upstream repository (newest changes from master branch from upstream repository - in that case Code for Poznan's main branch for particular project)
-2. `git merge upstream/master`
-  * To merge all the changes from upstream repository to your master branch
-3. `git push`
+3. `git merge upstream/master`
+  * To merge all the changes from upstream repository to your master branch.
+4. `git push`
   * to push all of the changes to forked repository
 
 ### How to propose change in upstream repository?

@@ -10,6 +10,8 @@ If you need any assistance with technical stuff like Github flow or Docker insta
 
 We have agreed to stick with naming of the files in the following format: `name_of_your_file`.
 
+---
+
 # Documents
 
 Documents related to Code for Poznan organization

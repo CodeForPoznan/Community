@@ -1,12 +1,12 @@
-# Hacknight
+# Organizing Hacknight
 
-1. Spotykamy się punktualnie.
-1. Na początku spotkania ustalamy listę tematów/rzeczy, którymi mamy się zająć, określamy też czas, jaki chcemy poświęcić na dane zagadnienie.
-1. Jedna osoba pilnuje czasów i tematów, może też prowadzi spotkanie?
-1. Jeśli mamy tematy, w które nie wszyscy muszą być włączeni, pracujemy w podgrupach, najlepiej w różnych miejscach, tak, by sobie nie przeszkadzać.
-1. Pod koniec spotkania spotykamy się i mówimy, co ustaliliśmy, co zrobiliśmy i czym mamy się zająć na kolejnym spotkaniu.
-1. Może raz w miesiącu (?) planowanie działań i sprawdzanie, w którym punkcie jesteśmy?
-1. Onboarding zawsze odbywa się równolegle, w osobnym pomieszczeniu.
+1. We try to be on time (meeting starts at 5 p.m).
+1. In the begining we enlist topics and tasks that we're going to do and try to establish the timeframe for doing them.
+1. One person in the group stays in the loop and follows all the projects and tasks, taking care of the group and the meeting flow.
+1. If we have the subject that does not need to include everyone in it, we work in sub-groups then, scattered in different spaces in order to not to disturb each other.
+1. At the end of the meeting we gather and talk about what we have planned, what we have done and what are going to do on the next week.
+1. Once in a month we plan activities and find out the stage of the project (refinement).
+1. Oboarding takes place parallely in the seprate space/place.
 
 # Onboarding
 

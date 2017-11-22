@@ -28,4 +28,3 @@ Po spotkaniu z nową osobą jedna z osób robiących onboarding utrzymuje z nią
 W zależności od projektu - informacje w README.md dot. każdego projektu oraz wprowadzenie do niego przez bardziej doświadczoną osobę.
 
 Dopiero po takim wprowadzeniu (i zapewnieniu, że chętnie odpowiemy na wszystkie pytania i wyjaśnimy niejasności) nowa osoba może zacząć uczestniczyć w spotkaniu (np. podsumowaniu – nie wiem, ile może trwać onboarding, to chyba kwestia indywidualna). Jeśli dana osoba potrzebuje wsparcia technicznego, może jej od razu wyznaczyć mentora?
-

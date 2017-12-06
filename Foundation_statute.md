@@ -41,24 +41,24 @@ Celem Fundacji jest udzielanie wsparcia w rozpowszechnianiu i wdrażaniu nowocze
 7. Fundacja może wspierać wszelkie działania, które są spójne z jej misją, wizją oraz służą budowaniu lepszego społeczeństwa.
 
 §10 Działania wspierające
-Fundacja prowadzi również działania dodatkowe, wspierające realizację celU Fundacji w tym:
-	1) gromadzenie i przetwarzanie danych dla realizacji celów Fundacji;
-	2) organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa specjalistycznego oraz publikacji materiałów związanych z celami Fundacji;
-	3) budowanie społeczności, skupiającej różnorodnych ludzi zainteresowanych działalnością społecznie użyteczną i celami Fundacji;
-	4) prowadzenie lub wspieranie badań naukowych i rozwojowych związanych z celami Fundacji oraz rozpowszechnianie ich wyników;
-	5) publikacja wyników badań i opracowań, podsumowań gromadzonych danych oraz materiałów szkoleniowo-dydaktycznych, o tematyce związanej z celami Fundacji;
-	6) organizowanie i udział w akcjach oraz kampaniach społecznych, seminariach, pokazach, imprezach edukacyjnych i kulturalnych;
-	7) organizowanie konkursów, przyznawanie nagród i stypendiów w zakresie obejmującym cele Fundacji;
-	8) organizowanie akcji medialnych (kampanii informacyjnych i akcji społecznych) promujących działania lub cele Fundacji;
-	9) upowszechnianie w internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Fundacji;
-	10) współpracę z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Fundacji.
+Fundacja prowadzi również działania dodatkowe, wspierające realizację celu Fundacji w tym:
+	a) gromadzenie i przetwarzanie danych dla realizacji celów Fundacji;
+	b) organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa specjalistycznego oraz publikacji materiałów związanych z celami Fundacji;
+	c) budowanie społeczności, skupiającej różnorodnych ludzi zainteresowanych działalnością społecznie użyteczną i celami Fundacji;
+	d) prowadzenie lub wspieranie badań naukowych i rozwojowych związanych z celami Fundacji oraz rozpowszechnianie ich wyników;
+	e) publikacja wyników badań i opracowań, podsumowań gromadzonych danych oraz materiałów szkoleniowo-dydaktycznych, o tematyce związanej z celami Fundacji;
+	f) organizowanie i udział w akcjach oraz kampaniach społecznych, seminariach, pokazach, imprezach edukacyjnych i kulturalnych;
+	g) organizowanie konkursów, przyznawanie nagród i stypendiów w zakresie obejmującym cele Fundacji;
+	h) organizowanie akcji medialnych (kampanii informacyjnych i akcji społecznych) promujących działania iub cele Fundacji;
+	j) upowszechnianie w internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Fundacji;
+	k) współpracę z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Fundacji.
 
 §11 Obszary działalności Fundacji
 Fundacja realizuje swoje cele w szczególności w obszarach:
-    1) działalności wspomagającej rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce społeczno-gospodarczej;
-    2) promocji i organizacji wolontariatu oraz działalności charytatywnej;
-    3) działalności wspomagającej rozwój wspólnot i społeczności lokalnych;
-    4) działalności na rzecz organizacji pozarządowych.
+    a) działalności wspomagającej rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce społeczno-gospodarczej;
+    b) promocji i organizacji wolontariatu oraz działalności charytatywnej;
+    c) działalności wspomagającej rozwój wspólnot i społeczności lokalnych;
+    d) działalności na rzecz organizacji pozarządowych.
 
 §12 Współpraca w realizacji celu
 Dla wspierania realizacji swoich cel statutowego Fundacja może przystępować do związków stowarzyszeń oraz innych organizacji społecznych, zawiązywać inne fundacje, których cele będą zbieżne z celami Fundacji, samodzielnie lub przy udziale innych osób fizycznych, osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej.
@@ -75,7 +75,7 @@ Rozdział III: Majątek i dochody Fundacji
 	e) dochodów z aukcji,
 	f) dochodów z majątku nieruchomego i ruchomego,
 	g) odsetek z depozytów bankowych,
-	g) z odpłatnej działalności pożytku publicznego.
+	h) z odpłatnej działalności pożytku publicznego.
 	i) dochodów z działalności gospodarczej
 3. Dochody pochodzące z subwencji, darowizn, spadków i zapisów mogą być użyte na wybrane przez Fundację, dowolne działanie związane z realizacją celów Fundacji, o ile ofiarodawcy nie postanowili inaczej.
 4. Fundacja może tworzyć fundusze, w tym o charakterze celowym, zgodnie z wolą ofiarodawcy, sygnowane jego nazwiskiem lub nazwą.
@@ -115,12 +115,12 @@ Rozdział IV: Organy Fundacji
 §21 Zadania Zarządu
 1. Zarząd Fundacji kieruje działalnością Fundacji i reprezentuje ją na zewnątrz.
 2. Do zadań Zarządu należy w szczególności:
-	1) kierowanie bieżącą działalnością Fundacji;
-	2) podejmowanie decyzji w sprawie prowadzenia działalności gospodarczej;
-	3) realizacja celów statutowych Fundacji,
-	4) uchwalanie rocznych i wieloletnich planów działania Fundacji,
-	5) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji,
-	6) zarządzanie majątkiem Fundacji.
+	a) kierowanie bieżącą działalnością Fundacji;
+	b) podejmowanie decyzji w sprawie prowadzenia działalności gospodarczej;
+	c) realizacja celów statutowych Fundacji,
+	d) uchwalanie rocznych i wieloletnich planów działania Fundacji,
+	e) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji,
+	f) zarządzanie majątkiem Fundacji.
 3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą większością głosów.
 4. O posiedzeniu muszą być powiadomieni wszyscy członkowie Zarządu z wyprzedzeniem co najmniej 7 dni kalendarzowych.
 5. Zarząd może powoływać pełnomocników do kierowania wyodrębnioną sferą spraw należących do zadań Zarządu Fundacji.

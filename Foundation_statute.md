@@ -116,11 +116,10 @@ Rozdział IV: Organy Fundacji
 1. Zarząd Fundacji kieruje działalnością Fundacji i reprezentuje ją na zewnątrz.
 2. Do zadań Zarządu należy w szczególności:
 	a) kierowanie bieżącą działalnością Fundacji;
-	b) podejmowanie decyzji w sprawie prowadzenia działalności gospodarczej;
-	c) realizacja celów statutowych Fundacji,
-	d) uchwalanie rocznych i wieloletnich planów działania Fundacji,
-	e) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji,
-	f) zarządzanie majątkiem Fundacji.
+	b) realizacja celów statutowych Fundacji,
+	c) uchwalanie rocznych i wieloletnich planów działania Fundacji,
+	d) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji,
+	e) zarządzanie majątkiem Fundacji.
 3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą większością głosów.
 4. O posiedzeniu muszą być powiadomieni wszyscy członkowie Zarządu z wyprzedzeniem co najmniej 7 dni kalendarzowych.
 5. Zarząd może powoływać pełnomocników do kierowania wyodrębnioną sferą spraw należących do zadań Zarządu Fundacji.

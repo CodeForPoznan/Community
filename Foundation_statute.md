@@ -83,8 +83,8 @@ Rozdział III: Majątek i dochody Fundacji
 6. W sprawach przyjęcia darowizn i dziedziczenia oświadczenia wymagane przepisami prawa składa Zarząd Fundacji.
 
 §14 Działalność gospodarcza
-1. Fundacja prowadzi / nie prowadzi działalności gospodarczej. 
-2. Przychód z działalności odpłatnej pożytku publicznego służy wyłącznie realizacji celów Fundacji.
+1. Fundacja nie prowadzi działalności gospodarczej. 
+2. Przychód z odpłatnej działalności statutowej służy wyłącznie realizacji celów Fundacji.
 
 §15 Księgi rachunkowe
 Fundacja prowadzi gospodarkę finansową i rachunkowość według zasad obowiązujących osoby prawne.

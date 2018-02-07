@@ -35,17 +35,14 @@ na rzecz społeczności lokalnych i podmiotów, realizujących zadania społeczn
 
 §9 Realizacja celów Fundacji
 1. Fundacja realizuje swoje cele poprzez tworzenie innowacyjnego, skalowalnego i potrzebnego społecznie oprogramowania we współpracy z partnerami, odpowiedzialnymi przede wszystkim za analizę oraz definiowanie problemów i potrzeb, które mogą zostać rozwiązane przy pomocy nowoczesnych rozwiązań technologicznych.
-2. Partnerem Fundacji może być osoba fizyczna lub prawna, stanowiąca podmiot, który:
-    a) realizuje zadania społecznie użyteczne lub zamierza rozpocząć ich realizację poprzez rozpoczęcie współpracy z Fundacją (partner);
-    b) wspomaga Fundację w realizacji jej celu w wymiarze materialnym lub niematerialnym (patron).
-3. Fundacja tworzy i dostarcza otwarcie dostępne i nieodpłatne oprogramowanie, publikowane i dystrybuowane za pośrednictwem platformy internetowej GitHub.com, udostępniane na licencji MIT lub CC BY-SA 4.0 lub innej podobnej, pozwalającej na nieograniczone kopiowanie, dystrybucję oraz wykorzystanie zarówno w celach prywatnych, jak i komercyjnych.
-4. Fundacja prowadzi regularne spotkania, służące rozwijaniu oprogramowania społecznie użytecznego, wymianie doświadczeń i organizowaniu współpracy, a także podnoszeniu umiejętności programistycznych wolontariuszy.
-5. Wolontariuszami Fundacji mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celu Fundacji.
-6. Fundacja realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w §8 oraz art. 4 ust. 1 pkt. 11-13 w Ustawie o działalności pożytku publicznego i wolontariacie z dnia 24 kwietnia 2003 wraz z późniejszymi zmianami.
-7. Fundacja może wspierać wszelkie działania, które są spójne z jej misją, wizją oraz służą budowaniu lepszego społeczeństwa.
+2. Fundacja tworzy i dostarcza otwarcie dostępne i nieodpłatne oprogramowanie, publikowane i dystrybuowane za pośrednictwem platformy internetowej GitHub.com, udostępniane na licencji MIT lub CC BY-SA 4.0 lub innej podobnej, pozwalającej na nieograniczone kopiowanie, dystrybucję oraz wykorzystanie zarówno w celach prywatnych, jak i komercyjnych.
+3. Fundacja prowadzi regularne spotkania, służące rozwijaniu oprogramowania społecznie użytecznego, wymianie doświadczeń i organizowaniu współpracy, a także podnoszeniu umiejętności programistycznych wolontariuszy.
+4. Wolontariuszami Fundacji mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celów Fundacji.
+5. Fundacja realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w §8 oraz art. 4 ust. 1 pkt. 11-13 w Ustawie o działalności pożytku publicznego i wolontariacie z dnia 24 kwietnia 2003 wraz z późniejszymi zmianami.
+6. Fundacja może wspierać wszelkie działania, które są spójne z jej misją, wizją oraz służą budowaniu lepszego społeczeństwa.
 
 §10 Działania wspierające
-Fundacja prowadzi również działania dodatkowe, wspierające realizację celu Fundacji w tym:
+Fundacja prowadzi również działania dodatkowe, wspierające realizację celów Fundacji w tym:
 	a) gromadzenie i przetwarzanie danych dla realizacji celów Fundacji;
 	b) organizację szkoleń, warsztatów, kursów, wykładów, spotkań, doradztwa specjalistycznego oraz publikacji materiałów związanych z celami Fundacji;
 	c) budowanie społeczności, skupiającej różnorodnych ludzi zainteresowanych działalnością społecznie użyteczną i celami Fundacji;
@@ -64,8 +61,9 @@ Fundacja realizuje swoje cele w szczególności w obszarach:
     c) działalności wspomagającej rozwój wspólnot i społeczności lokalnych;
     d) działalności na rzecz organizacji pozarządowych.
 
-§12 Współpraca w realizacji celu
-Dla wspierania realizacji swoich cel statutowego Fundacja może przystępować do związków stowarzyszeń oraz innych organizacji społecznych, zawiązywać inne fundacje, których cele będą zbieżne z celami Fundacji, samodzielnie lub przy udziale innych osób fizycznych, osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej.
+§12 Współpraca w realizacji celów
+
+Dla wspierania realizacji swoich celów statutowych Fundacja może przystępować do związków stowarzyszeń oraz innych organizacji społecznych, zawiązywać inne fundacje, których cele będą zbieżne z celami Fundacji, samodzielnie lub przy udziale innych osób fizycznych, osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej.
 
 Rozdział III: Majątek i dochody Fundacji
 

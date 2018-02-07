@@ -26,10 +26,14 @@ Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw g
 
 Rozdział II: Cele i zasady działania Fundacji
 
-§8 Cel Fundacji
-Celem Fundacji jest udzielanie wsparcia w rozpowszechnianiu i wdrażaniu nowoczesnych rozwiązań technologicznych, pośród społeczności lokalnych i podmiotów, realizujących zadania społecznie użyteczne, poprzez wykorzystanie wiedzy programistycznej oraz tworzenie oprogramowania, które odpowiada na problemy społeczne, sprzyja aktywności lokalnej i promuje odpowiedzialność za wspólne otoczenie w praktyce społecznej oraz gospodarczej.
+§8 Cele Fundacji
+Celami Fundacji są:
+1. tworzenie nowych rozwiązań technologicznych oraz wsparcie w ich rozpowszechnianiu i wdrażaniu;
+2. edukowanie w zakresie zarządzania, tworzenia i wdrażania projektów informatycznych; 
+3. promowanie idei wytwarzania otwartego oprogramowania;
+na rzecz społeczności lokalnych i podmiotów, realizujących zadania społecznie użyteczne, odpowidając na realne problemy społeczne, facylitując aktywizm lokalny oraz promując odpowiedzialność za dobro wspólne w praktyce społecznej i gospodarczej.
 
-§9 Realizacja celu Fundacji
+§9 Realizacja celów Fundacji
 1. Fundacja realizuje swoje cele poprzez tworzenie innowacyjnego, skalowalnego i potrzebnego społecznie oprogramowania we współpracy z partnerami, odpowiedzialnymi przede wszystkim za analizę oraz definiowanie problemów i potrzeb, które mogą zostać rozwiązane przy pomocy nowoczesnych rozwiązań technologicznych.
 2. Partnerem Fundacji może być osoba fizyczna lub prawna, stanowiąca podmiot, który:
     a) realizuje zadania społecznie użyteczne lub zamierza rozpocząć ich realizację poprzez rozpoczęcie współpracy z Fundacją (partner);

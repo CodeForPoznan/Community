@@ -107,7 +107,7 @@ Rozdział IV: Organy Fundacji
 	a) kierowanie bieżącą działalnością Fundacji;
 	b) realizacja celów statutowych Fundacji,
 	c) uchwalanie rocznych i wieloletnich planów działania Fundacji,
-	d) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji,
+	d) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji, w tym sprawozdań finansowych,
 	e) zarządzanie majątkiem Fundacji,
 	f) powoływanie i odwoływanie członków zarzadu.
 3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą większością głosów.

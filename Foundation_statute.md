@@ -10,7 +10,7 @@ Fundacja posiada osobowość prawną, którą nabywa z chwilą wpisania do rejes
 Siedzibą Fundacji jest miasto Poznań.
 
 §4 Teren działalności
-1. Terenem działalności Fundacji jest obszar Rzeczpospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów może ona prowadzić działalność, także poza granicami Rzeczpospolitej Polskiej.
+1. Terenem działalności Fundacji jest obszar Rzeczpospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów może ona prowadzić działalność także poza granicami Rzeczpospolitej Polskiej.
 2. Fundacja może dla celów współpracy z zagranicą posługiwać się tłumaczeniem nazwy w wybranych językach.
 
 §5 Czas trwania Fundacji
@@ -20,7 +20,7 @@ Czas trwania Fundacji jest nieograniczony.
 Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki.
 
 §7 Identyfikacja Fundacji
-1. Pełną nazwa Fundacji jest Code for Poznań.
+1. Pełną nazwą Fundacji jest Code for Poznań.
 
 Rozdział II: Cele i zasady działania Fundacji
 
@@ -28,8 +28,7 @@ Rozdział II: Cele i zasady działania Fundacji
 Celami Fundacji są:
 1. tworzenie nowych rozwiązań technologicznych oraz wsparcie w ich rozpowszechnianiu i wdrażaniu;
 2. edukowanie w zakresie zarządzania, tworzenia i wdrażania projektów informatycznych; 
-3. promowanie idei wytwarzania otwartego oprogramowania;
-na rzecz społeczności lokalnych i podmiotów, realizujących zadania społecznie użyteczne, odpowidając na realne problemy społeczne, facylitując aktywizm lokalny oraz promując odpowiedzialność za dobro wspólne w praktyce społecznej i gospodarczej;
+3. promowanie idei wytwarzania otwartego oprogramowania na rzecz społeczności lokalnych i podmiotów, realizujących zadania społecznie użyteczne, odpowidając na realne problemy społeczne, facylitując aktywizm lokalny oraz promując odpowiedzialność za dobro wspólne w praktyce społecznej i gospodarczej;
 4. promocja i organizacja wolontariatu oraz działalności charytatywnej;
 5. działalność wspomagająca rozwój wspólnot i społeczności lokalnych;
 6. działalnośc na rzecz organizacji pozarządowych.
@@ -39,12 +38,12 @@ na rzecz społeczności lokalnych i podmiotów, realizujących zadania społeczn
 1. Fundacja realizuje swoje cele poprzez tworzenie innowacyjnego, skalowalnego i potrzebnego społecznie oprogramowania we współpracy z partnerami, odpowiedzialnymi przede wszystkim za analizę oraz definiowanie problemów i potrzeb, które mogą zostać rozwiązane przy pomocy nowoczesnych rozwiązań technologicznych. Wiąże się to z gromadzeniem i przetwarzaniem danych dla realizacji celów Fundacji.
 2. Fundacja tworzy i dostarcza otwarcie dostępne i nieodpłatne oprogramowanie, publikowane i dystrybuowane w internecie, udostępniane na licencji pozwalającej na nieograniczone kopiowanie, dystrybucję oraz wykorzystanie zarówno w celach prywatnych, jak i komercyjnych.
 3. Fundacja prowadzi regularne spotkania, służące rozwijaniu oprogramowania społecznie użytecznego, wymianie doświadczeń i organizowaniu współpracy, podnoszeniu umiejętności programistycznych wolontariuszy, a także budowaniu społeczności skupiającej różnorodnych ludzi zainteresowanych działalnością społecznie użyteczną i celami Fundacji;
-4. Fundacja może prowadzić nieregularne spotkania, w tym szkolenia, warsztaty, kursy, wykłady, spotkania, świadczyć doradztwo specjalistyczne oraz publikować materiały związane z celami Fundacji;
-5. Fundacja może prowadzić lub wspierać badania naukowe i rozwojowe związane z celami Fundacji oraz rozpowszechniać ich wyniki, publikować wyniki badań i opracowań, podsumowań gromadzonych danych oraz materiałów szkoleniowo-dydaktyczych, o tematyce związanej z celami Fundacji;
-6. Fundacja może organizować i brać udział w akcjach oraz kampaniach społecznych, seminariach, pokazach, imprezach edukacyjnych i kulturalnych, organizować konkursy oraz przyznawać nagrody i stypendia, przeprowadzać akcje medialne (kampanie informacyjne i akcje społeczne) promujące działania lub cele Fundacji;
-7. Fundacja może upowszechniać w internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Fundacji;
-8. Wolontariuszami Fundacji mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celów Fundacji;
-9. Fundacja może współpracować z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Fundacji;
+4. Fundacja może prowadzić nieregularne spotkania, w tym szkolenia, warsztaty, kursy, wykłady, spotkania, świadczyć doradztwo specjalistyczne oraz publikować materiały związane z celami Fundacji.
+5. Fundacja może prowadzić lub wspierać badania naukowe i rozwojowe związane z celami Fundacji oraz rozpowszechniać ich wyniki, publikować wyniki badań i opracowań, podsumowań gromadzonych danych oraz materiałów szkoleniowo-dydaktyczych, o tematyce związanej z celami Fundacji.
+6. Fundacja może organizować i brać udział w akcjach oraz kampaniach społecznych, seminariach, pokazach, imprezach edukacyjnych i kulturalnych, organizować konkursy oraz przyznawać nagrody i stypendia, przeprowadzać akcje medialne (kampanie informacyjne i akcje społeczne) promujące działania lub cele Fundacji.
+7. Fundacja może upowszechniać w internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Fundacji.
+8. Wolontariuszami Fundacji mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celów Fundacji.
+9. Fundacja może współpracować z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Fundacji.
 10. Fundacja realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w §8 oraz art. 4 ust. 1 pkt. 11-13 w Ustawie o działalności pożytku publicznego i wolontariacie z dnia 24 kwietnia 2003 wraz z późniejszymi zmianami.
 
 §10 Współpraca w realizacji celów

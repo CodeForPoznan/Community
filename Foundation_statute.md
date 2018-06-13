@@ -62,7 +62,7 @@ Rozdział III: Majątek i dochody Fundacji
 	e) dochodów z aukcji,
 	f) dochodów z majątku nieruchomego i ruchomego,
 	g) odsetek z depozytów bankowych,
-	h) z odpłatnej działalności pożytku publicznego.
+	h) z odpłatnej działalności pożytku publicznego,
 	i) dochodów z działalności gospodarczej,
 	j) i inne dopuszczane prawem.
 3. Dochody pochodzące z subwencji, darowizn, spadków i zapisów mogą być użyte na wybrane przez Fundację, dowolne działanie związane z realizacją celów Fundacji, o ile ofiarodawcy nie postanowili inaczej.

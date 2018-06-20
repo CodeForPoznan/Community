@@ -53,7 +53,7 @@ Dla wspierania realizacji swoich celów statutowych Fundacja może przystępowa�
 Rozdział III: Majątek i dochody Fundacji
 
 §11 Fundusz założycielski i przepływy majątkowe
-1. Majątek Fundacji stanowi Fundusz założycielski w kwocie 1000 zł (słownie: tysiąc złotych) oraz środki finansowe, nieruchomości i ruchomości nabyte przez Fundację w toku jej działania.
+1. Majątek Fundacji stanowi Fundusz założycielski w kwocie 2000 zł (słownie: dwa tysiące złotych), z czego 1000 zł (słownie: tysiąc złotych) jest przeznaczone na działalność gospodarczą	 oraz środki finansowe, nieruchomości i ruchomości nabyte przez Fundację w toku jej działania.
 2. Środki na realizację celów Fundacji i pokrycie kosztów jej działalności pochodzą z:
 	a) funduszu założycielskiego,
 	b) darowizn, spadków i zapisów,
@@ -119,15 +119,7 @@ Rozdział IV: Organy Fundacji
 3. Prezes Zarządu Fundacji może powołać Wiceprezesa Zarządu Fundacji spośród pozostałych członków Zarządu, który wykonuje obowiązki Prezesa podczas jego niemożności działania lub w zakresie mu powierzonym.
 
 §21 Składanie oświadczeń woli i zwykły zarząd
-1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych w zakresie zwykłego zarządu uprawniony jest Prezes Zarządu Fundacji samodzielnie.
-2. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych w zakresie przekraczającym zwykły zarząd uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji.
-3. Sprawy przekraczające zwykły zarząd:
-	a) dokonanie czynności prawnej nie wynikających z planów działania lub planów finansowych Fundacji;
-	b) dokonanie czynności prawnej o wartości przekraczającej 10 000 (słownie: dziesięć tysięcy PLN) zł, przy czym waluty obce należy przeliczać według kursu średniego NBP z dnia dokonania czynności prawnej;
-	c) dokonanie czynności prawnej zobowiązującej Fundację do jakiegokolwiek świadczenia w terminie ponad trzech miesięcy od dnia dokonania czynności prawnej;
-	d) zaciągnięcie kredytu lub innego podobnego zobowiązania w bankach i instytucjach finansowych;
-	e) dokonanie czynności prawnej, których dokonaniu sprzeciwił się którykolwiek z członków Zarządu.
-4. O działaniach podejmowanych w zakresie zwykłego zarządu Prezes Zarządu Fundacji powinien poinformować Zarząd na najbliższym posiedzeniu Zarządu Fundacji.
+1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji.
 
 Rozdział V: Zmiana statutu i likwidacja Fundacji
 

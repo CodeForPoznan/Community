@@ -53,7 +53,7 @@ Dla wspierania realizacji swoich celów statutowych Fundacja może przystępowa�
 Rozdział III: Majątek i dochody Fundacji
 
 §11 Fundusz założycielski i przepływy majątkowe
-1. Majątek Fundacji stanowi Fundusz założycielski w kwocie 2000 zł (słownie: dwa tysiące złotych), z czego 1000 zł (słownie: tysiąc złotych) jest przeznaczone na działalność gospodarczą	 oraz środki finansowe, nieruchomości i ruchomości nabyte przez Fundację w toku jej działania.
+1. Majątek Fundacji stanowi Fundusz założycielski w kwocie 2000 zł (słownie: dwa tysiące złotych), z czego 1000 zł (słownie: tysiąc złotych) jest przeznaczone na działalność gospodarczą oraz środki finansowe, nieruchomości i ruchomości nabyte przez Fundację w toku jej działania.
 2. Środki na realizację celów Fundacji i pokrycie kosztów jej działalności pochodzą z:
 	a) funduszu założycielskiego,
 	b) darowizn, spadków i zapisów,

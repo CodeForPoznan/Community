@@ -103,12 +103,12 @@ Rozdział IV: Organy Fundacji
 §19 Zadania Zarządu
 1. Zarząd Fundacji kieruje działalnością Fundacji i reprezentuje ją na zewnątrz.
 2. Do zadań Zarządu należy w szczególności:
-	a) kierowanie bieżącą działalnością Fundacji;
+	a) kierowanie bieżącą działalnością Fundacji,
 	b) realizacja celów statutowych Fundacji,
 	c) uchwalanie rocznych i wieloletnich planów działania Fundacji,
 	d) przygotowywanie i uchwalanie sprawozdań z działalności Fundacji, w tym sprawozdań finansowych,
 	e) zarządzanie majątkiem Fundacji,
-	f) powoływanie i odwoływanie członków zarzadu.
+	f) powoływanie i odwoływanie członków zarządu.
 3. Zarząd Fundacji podejmuje decyzje na posiedzeniach w formie uchwał zwykłą większością głosów.
 4. O posiedzeniu muszą być powiadomieni wszyscy członkowie Zarządu poprzez wiadomość e-mail.
 5. Zarząd może powoływać pełnomocników do kierowania wyodrębnioną sferą spraw należących do zadań Zarządu Fundacji.
@@ -128,7 +128,7 @@ Rozdział V: Zmiana statutu i likwidacja Fundacji
 
 §23 Likwidacja Fundacji
 1. Fundacja ulega likwidacji w razie osiągnięcia celów, dla których została powołana lub w razie wyczerpania się jej środków finansowych i majątku.
-2. Decyzję w przedmiocie likwidacji Fundacji podejmuje Zarząd Fundacji w drodze uchwały na zasadach opisanych w § 21.
+2. Decyzję w przedmiocie likwidacji Fundacji podejmuje Zarząd Fundacji w drodze uchwały na zasadach opisanych w §21.
 
 §24 Majątek po likwidacji
 Majątek pozostały po likwidacji Fundacji przekazuje się, z zastrzeżeniem treści art. 5 ust.4 ustawy o fundacjach, instytucjom, których działalność odpowiada celom Fundacji, wskazanym przez Zarząd Fundacji.

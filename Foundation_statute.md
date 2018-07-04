@@ -25,7 +25,8 @@ Czas trwania Fundacji jest nieograniczony.
 Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki.
 
 §7 Identyfikacja Fundacji
-1. Pełną nazwą Fundacji jest Code for Poznań.
+
+Pełną nazwą Fundacji jest Code for Poznań.
 
 Rozdział II: Cele i zasady działania Fundacji
 
@@ -128,12 +129,14 @@ Rozdział IV: Organy Fundacji
 3. Prezes Zarządu Fundacji może powołać Wiceprezesa Zarządu Fundacji spośród pozostałych członków Zarządu, który wykonuje obowiązki Prezesa podczas jego niemożności działania lub w zakresie mu powierzonym.
 
 §21 Składanie oświadczeń woli i zwykły zarząd
-1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji.
+
+Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji.
 
 Rozdział V: Zmiana statutu i likwidacja Fundacji
 
 §22 Zmiana statutu
-1. Decyzje w przedmiocie zmiany Statutu, w tym celów statutowych, podejmuje jednomyślnie Zarząd Fundacji.
+
+Decyzje w przedmiocie zmiany Statutu, w tym celów statutowych, podejmuje jednomyślnie Zarząd Fundacji.
 
 §23 Likwidacja Fundacji
 1. Fundacja ulega likwidacji w razie osiągnięcia celów, dla których została powołana lub w razie wyczerpania się jej środków finansowych i majątku.

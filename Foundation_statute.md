@@ -1,12 +1,15 @@
 Rozdział I: Podstawowe informacje
 
 §1 Podstawowe informacje
+
 Fundacja pod nazwą Code for Poznań, zwana dalej „Fundacją”, ustanowiona przez Tomasza Magulskiego i Wojciecha Patelkę, zwanych dalej „Fundatorami”, aktem notarialnym sporządzonym w ... dnia ... roku, działa na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. 1991, Nr 46, poz. 203, wraz z późniejszymi zmianami) oraz niniejszego Statutu.
 
 §2 Osobowość prawna
+
 Fundacja posiada osobowość prawną, którą nabywa z chwilą wpisania do rejestru fundacji w Krajowym Rejestrze Sądowym.
 
 §3 Siedziba Fundacji
+
 Siedzibą Fundacji jest miasto Poznań.
 
 §4 Teren działalności
@@ -14,17 +17,21 @@ Siedzibą Fundacji jest miasto Poznań.
 2. Fundacja może dla celów współpracy z zagranicą posługiwać się tłumaczeniem nazwy w wybranych językach.
 
 §5 Czas trwania Fundacji
+
 Czas trwania Fundacji jest nieograniczony.
 
 §6 Nadzór nad Fundacją
+
 Ministrem sprawującym nadzór nad Fundacją jest minister właściwy do spraw gospodarki.
 
 §7 Identyfikacja Fundacji
-1. Pełną nazwą Fundacji jest Code for Poznań.
+
+Pełną nazwą Fundacji jest Code for Poznań.
 
 Rozdział II: Cele i zasady działania Fundacji
 
 §8 Cele Fundacji
+
 Celami Fundacji są:
 1. tworzenie nowych rozwiązań technologicznych oraz wsparcie w ich rozpowszechnianiu i wdrażaniu;
 2. edukowanie w zakresie zarządzania, tworzenia i wdrażania projektów informatycznych; 
@@ -75,12 +82,15 @@ Rozdział III: Majątek i dochody Fundacji
 2. Przychód z odpłatnej działalności statutowej służy wyłącznie realizacji celów Fundacji.
 
 §13 Księgi rachunkowe
+
 Fundacja prowadzi gospodarkę finansową i rachunkowość według zasad obowiązujących osoby prawne.
 
 §14 Powiernictwo środków
+
 Fundacja może gromadzić swoje fundusze w walucie polskiej oraz w walutach obcych we właściwych bankach zgodnie z przepisami prawa.
 
 §15 Odpowiedzialność za zobowiązania
+
 Fundacja odpowiada za swoje zobowiązania całym majątkiem.
 
 Rozdział IV: Organy Fundacji
@@ -119,23 +129,27 @@ Rozdział IV: Organy Fundacji
 3. Prezes Zarządu Fundacji może powołać Wiceprezesa Zarządu Fundacji spośród pozostałych członków Zarządu, który wykonuje obowiązki Prezesa podczas jego niemożności działania lub w zakresie mu powierzonym.
 
 §21 Składanie oświadczeń woli i zwykły zarząd
-1. Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji.
+
+Do składania oświadczeń woli w imieniu Fundacji w sprawach majątkowych i niemajątkowych uprawnieni są łącznie wszyscy Członkowie Zarządu Fundacji.
 
 Rozdział V: Zmiana statutu i likwidacja Fundacji
 
 §22 Zmiana statutu
-1. Decyzje w przedmiocie zmiany Statutu, w tym celów statutowych, podejmuje jednomyślnie Zarząd Fundacji.
+
+Decyzje w przedmiocie zmiany Statutu, w tym celów statutowych, podejmuje jednomyślnie Zarząd Fundacji.
 
 §23 Likwidacja Fundacji
 1. Fundacja ulega likwidacji w razie osiągnięcia celów, dla których została powołana lub w razie wyczerpania się jej środków finansowych i majątku.
 2. Decyzję w przedmiocie likwidacji Fundacji podejmuje Zarząd Fundacji w drodze uchwały na zasadach opisanych w §21.
 
 §24 Majątek po likwidacji
+
 Majątek pozostały po likwidacji Fundacji przekazuje się, z zastrzeżeniem treści art. 5 ust.4 ustawy o fundacjach, instytucjom, których działalność odpowiada celom Fundacji, wskazanym przez Zarząd Fundacji.
 
 Rozdział VI: Postanowienia końcowe
 
 §25 Wejście w życie
+
 Statut wchodzi w życie z dniem zarejestrowania Fundacji przez Sąd właściwy dla siedziby Fundacji.
 
 Poznań 09.08.2017

@@ -10,7 +10,8 @@ In short words, we are forking repository from Code for Poznan organisation to o
 
 1. Fork repository from Code for Poznań
 2. Clone your (forked) repository to local computer
-3. Add upstream remote by executing command `git remote add upstream https://github.com/CodeForPoznan/project_name.git`
+3. Go to (`cd project_name` command) directory of cloned repository in a terminal
+4. Add upstream remote by executing command `git remote add upstream https://github.com/CodeForPoznan/project_name.git`
 
 ### How to be up-to-date with upstream repository?
 

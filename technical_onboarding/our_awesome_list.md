@@ -8,6 +8,7 @@
 * [Django Girls](https://tutorial.djangogirls.org/pl)
 
 ### Flask
+* [Rest APIs with Flask and Python - Udemy - Jose Salvatierra](https://www.udemy.com/rest-api-flask-and-python)
 
 
 ### Docker
@@ -16,7 +17,7 @@
 
 ### Git
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
-
+* [Learn Git - Codecademy](https://www.codecademy.com/learn/learn-git)
 
 ### Linux
 

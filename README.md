@@ -13,7 +13,7 @@ Tech intro:
 - [ ] Invitation to the GitHub organization
 - [ ] Gitter access
 - [ ] GitHub flow
-- [ ] Zenhub?
+- [ ] Zenhub
 - [ ] SSH key
 - [ ] Docker installation
 - [ ] Docker-compose installation

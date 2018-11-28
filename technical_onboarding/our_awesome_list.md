@@ -26,8 +26,8 @@
 * [Angular ng-girls](https://ng-girls.gitbook.io/todo-list-tutorial)
 * [Angular - Udemy - Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2)
 
-### Vue js
-* [Vue js 2 - Udemy - Maximilian Schwarzmüller](https://www.udemy.com/vuejs-2-the-complete-guide/)
+### Vue.js
+* [Vue.js 2 - Udemy - Maximilian Schwarzmüller](https://www.udemy.com/vuejs-2-the-complete-guide/)
 * [Intro to Vue.js: Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 
 ### Developer Roadmap

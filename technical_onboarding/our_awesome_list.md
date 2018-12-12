@@ -32,3 +32,7 @@
 
 ### Developer Roadmap
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+### Testing
+
+* [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)

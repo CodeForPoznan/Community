@@ -36,3 +36,7 @@
 ### Testing
 
 * [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+
+### Machine Learning
+* [Data Science and Machine Learning - Udemy - Jose Portilla](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - ML with Python
+* [Machine Learning - Coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning) - more teoretical, ML with Octave or Matlab

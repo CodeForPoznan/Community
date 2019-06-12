@@ -2,16 +2,16 @@ Rozdział I: Podstawowe informacje
 
 §1 Stowarzyszenie działające na podstawie niniejszego Statutu nosi nazwę Stowarzyszenie Code for Poznań. Stowarzyszenie może używać nazwy skróconej Code for Poznań.
 
-§2 Terenem działalności Stowarzyszenia jest Reczpospolita Polska, przy czym w zakresie niezbędnym dla właściwego realizowania celów może ono prowadzić działalność także poza granicami Rzeczpospolitej Polskiej.
+§2 Terenem działalności Stowarzyszenia jest Rzeczpospolita Polska, przy czym w zakresie niezbędnym dla właściwego realizowania celów może ono prowadzić działalność także poza granicami Rzeczpospolitej Polskiej.
 
-§3 Siedzibą Stowarzyszenie jest miasto Poznań.
+§3 Siedzibą Stowarzyszenia jest miasto Poznań.
 
 Rozdział II: Cele
 
 §4 Celami Stowarzyszenia są:
 1. tworzenie nowych rozwiązań technologicznych oraz wsparcie w ich rozpowszechnianiu i wdrażaniu;
 2. edukowanie w zakresie zarządzania, tworzenia i wdrażania projektów informatycznych; 
-3. promowanie idei wytwarzania otwartego oprogramowania na rzecz społeczności lokalnych i podmiotów, realizujących zadania społecznie użyteczne, odpowidając na realne problemy społeczne, facylitując aktywizm lokalny oraz promując odpowiedzialność za dobro wspólne w praktyce społecznej i gospodarczej;
+3. promowanie idei wytwarzania otwartego oprogramowania na rzecz społeczności lokalnych i organizacji, odpowiadających na realne problemy społeczne, wspierających aktywność lokalną oraz promujących odpowiedzialność za dobro wspólne;
 4. promocja i organizacja wolontariatu oraz działalności charytatywnej;
 5. działalność wspomagająca rozwój wspólnot i społeczności lokalnych;
 6. działalnośc na rzecz organizacji pozarządowych.
@@ -22,7 +22,7 @@ Rozdział III: Realizacja celów
 
 §6 Stowarzyszenie tworzy i dostarcza otwarcie dostępne i nieodpłatne oprogramowanie, publikowane i dystrybuowane w internecie, udostępniane na licencji pozwalającej na nieograniczone kopiowanie, dystrybucję oraz wykorzystanie zarówno w celach prywatnych, jak i komercyjnych.
 
-§7 Stowarzyszenie prowadzi regularne spotkania, służące rozwijaniu oprogramowania społecznie użytecznego, wymianie doświadczeń i organizowaniu współpracy, podnoszeniu umiejętności programistycznych wolontariuszy, a także budowaniu społeczności skupiającej różnorodnych ludzi zainteresowanych działalnością społecznie użyteczną i celami Stowarzyszenia.
+§7 Stowarzyszenie prowadzi regularne spotkania, służące rozwijaniu społecznie użytecznego oprogramowania, wymianie doświadczeń i organizowaniu współpracy, podnoszeniu umiejętności programistycznych wolontariuszy, a także budowaniu społeczności skupiającej różnorodnych ludzi zainteresowanych działalnością społecznie użyteczną i celami Stowarzyszenia.
 
 §8 Stowarzyszenie może prowadzić nieregularne spotkania, w tym szkolenia, warsztaty, kursy, wykłady, spotkania, świadczyć doradztwo specjalistyczne oraz publikować materiały związane z celami Stowarzyszenia.
 
@@ -32,72 +32,75 @@ Rozdział III: Realizacja celów
 
 §11 Stowarzyszenie może upowszechniać w internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Stowarzyszenia.
 
-§12 Wolontariuszami Stowarzyszenia mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celów Stowarzyszenia.
+Rozdział IV: Wolontariat i Współpraca
 
-§13 Stowarzyszenie może współpracować z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Stowarzyszenia.
+§12 Stowarzyszenie realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w §4 oraz art. 4 ust. 1 pkt. 11-13 w Ustawie o działalności pożytku publicznego i wolontariacie z dnia 24 kwietnia 2003 wraz z późniejszymi zmianami.
 
-§14 Stowarzyszenie realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w §4 oraz art. 4 ust. 1 pkt. 11-13 w Ustawie o działalności pożytku publicznego i wolontariacie z dnia 24 kwietnia 2003 wraz z późniejszymi zmianami.
+§13 Wolontariuszami Stowarzyszenia mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celów Stowarzyszenia.
+
+§14 Stowarzyszenie może współpracować z innymi podmiotami prowadzącymi działalność wspomagającą lub obejmującą cele Stowarzyszenia.
 
 §15 Dla wspierania realizacji swoich celów statutowych Stowarzyszenie może przystępować do związków, stowarzyszeń oraz innych organizacji społecznych, zawiązywać fundacje, których cele będą zbieżne z celami Stowarzyszenia, samodzielnie lub przy udziale innych osób fizycznych, osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej.
 
-Rozdział IV: Członkowie
+Rozdział V: Członkowie
 
-§16 Członkiem Stowarzyszenia mogą być osoby fizyczne i prawne. Osoba prawna może być jedynie członkiem wspierającym Stowarzyszenia.
-
-§17 Stowarzyszenie posiada członków:
+§16 Stowarzyszenie posiada członków:
 a) zwyczajnych,
 b) wspierających.
 
+§17 Członkiem Stowarzyszenia mogą być osoby fizyczne i prawne. Osoba prawna może być jedynie członkiem wspierającym.
+
 §18
-1. Członkiem zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która złoży pisemną deklarację i rekomendację dwóch członków Stowarzyszenia.
-2. Przyjęcia nowych członków dokonuje Zarząd uchwałą podjętą nie później niż w ciągu miesiąca od daty złożenia deklaracji.
+1. Członkiem zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która złoży pisemną deklarację i zostanie zarekomendowana przez dwóch członków Stowarzyszenia.
+2. Przyjęcia nowych członków zwyczajnych dokonuje Zarząd uchwałą podjętą nie później niż w ciągu miesiąca od daty złożenia deklaracji.
 
 §19
-1. Członkiem wspierającym Stowarzyszenia możę zostać osoba fizyczna i prawna deklarująca pomoc finansową, rzeczową czy merytoryczną w realizacji celów Stowarzyszenia.
-2. Członkiem wspierającym staje się po złożeniu pisemnej deklaracji na podstawie uchwały Zarządu podjętej nie poźniej niz w ciągu miesiąca od daty złożenia deklaracji.
+1. Członkiem wspierającym może zostać osoba fizyczna i prawna, która złoży pisemną deklarację pomocy finansowej, rzeczowej i/lub merytorycznej w realizacji celów Stowarzyszenia.
+2. Przyjęcia nowych członków wspierających dokonuje Zarząd uchwałą podjętą nie później niż w ciągu 3 miesięcy od daty złożenia deklaracji.
 
 §20 Członkowie zwyczajni mają prawo do:
 a) biernego i czynnego uczestnictwa w wyborach do władz Stowarzyszenia,
 b) udziału we wszystkich aktywnościach realizowanych przez Stowarzyszenie,
-c) zgłaszania wniosków co do działalności Stowarzyszenia.
+c) zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
 §21 Członkowie zwyczajni mają obowiązek:
-a) brania udziału w działalnośći Stowarzyszenia i w realizacji jego celów,
+a) brania udziału w działalności Stowarzyszenia i w realizacji jego celów,
 b) uczestnictwa w walnych zebraniach członków,
-c) przestrzegania statut i uchwał władz Stowarzyszenia,
+c) przestrzegania statutu i uchwał władz Stowarzyszenia,
 d) regularnego opłacania składek.
 
-§22 Członkowie wspierający nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w statuowych władzach Stowarzyszenia, poza tym posiadają takie same prawa jak członkowie zwyczajni.
+§22 Członkowie wspierający mogą pełnić funkcję doradczą i posiadają takie same prawa jak członkowie zwyczajni za wyjątkiem biernego oraz czynnego prawa wyborczego.
 
-§23 Członkowie wspierający mają obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
+§23 Członkowie wspierający mają obowiązek wywiązywania się z zadeklarowanych zobowiązań, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
 
 §24 Członkowstwo w Stowarzyszeniu ustaje na skutek:
-a) dobrowolnej rezygnacji pisemnej z przynależności do Stowarzyszenia złożonej na ręcę Zarządu,
-b) wykluczenia przez Zarząd:
- - z powodu nieusprawiedliwionego zalegania z opłatą składek członkowskich lub innych zobowiązań, przez okres przekraczający 6 miesięcy,
+a) dobrowolnej rezygnacji pisemnej z przynależności do Stowarzyszenia złożonej na ręce Zarządu,
+b) uchwały Zarządu:
+ - z powodu nieusprawiedliwionego zalegania z opłatą składek członkowskich lub innych zobowiązań przez okres przekraczający 6 miesięcy,
  - z powodu rażącego naruszenia zasad statutowych, nieprzestrzegania postanowień i uchwał władz Stowarzyszenia,
- - ze względu na brak przejawów aktywnej działalności na rzecz Stowarzyszenia.
+ - ze względu na brak przejawów aktywnej działalności na rzecz Stowarzyszenia,
 c) utraty praw obywatelskich na mocy prawomocnego wyroku sądu,
-d) śmieci członka lub utraty osobowości prawnej przez członka wspierającego.
+d) śmierci członka,
+e) utraty osobowości prawnej.
 
-§25 Od uchwały Zarządu w sprawie pozbawienia członkowstwa w Stowarzyszeniu przysługuje odwołanie do Walnego Zebrania Członków w terminie miesiąca od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zgromadzeniu Członków. Uchwała Walnego Zebranie Członków jest ostateczna.
+§25 Od uchwały Zarządu w sprawie pozbawienia członkowstwa w Stowarzyszeniu przysługuje odwołanie do Walnego Zebrania Członków w terminie miesiąca od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna.
 
-Rozdział V: Władze
+Rozdział VI: Władze
 
 §26 Władzami Stowarzyszenia są:
 a) Walne Zebranie Członków,
 b) Zarząd,
 c) Komisja Rewizyjna.
 
-§27 Władze Stowarzyszenia wybierane są przez Walne Zebranie Członków w głosowaniu jawnym zwykłą większością głosów. Walne Zebranie Członków może zdecydować o przeprowadzeniu głosowania tajnego.
+§27 Zarząd i Komisja Rewizyjna wybierane są przez Walne Zebranie Członków w głosowaniu jawnym zwykłą większością głosów. Walne Zebranie Członków może zdecydować o przeprowadzeniu głosowania tajnego.
 
-§28 W razie, gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich skłądu możę nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W trybie tym można powołać nie więcej niż połowę skłądu organu.
+§28 W razie, gdy skład Zarządu lub Komisji Rewizyjnej ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W trybie tym można powołać nie więcej niż połowę składu organu.
 
-§29 Uchwały wszystkich władz Stowarzyszenia zapadają w głosowaniu jawnym zwykłą większością głosóœ, przy obecności co najmniej połowy członków uprawnionych do głosowania w pierwszym terminie, a w drugim terminie bez względu na liczbę obecnych członków, chyba że dalsze postanowienia stanowią inaczej.
+§29 Uchwały władz Stowarzyszenia zapadają w głosowaniu jawnym zwykłą większością głosów, przy obecności co najmniej połowy członków uprawnionych do głosowania w pierwszym terminie, a w drugim terminie bez względu na liczbę obecnych członków, chyba że dalsze postanowienia stanowią inaczej.
 
 §30 Kadencja wszystkich wybieralnych władz Stowarzyszenia trwa 1 rok.
 
-Rozdział VI: Walne Zebranie Członków
+Rozdział VII: Walne Zebranie Członków
 
 §31 Najwyższą władzą Stowarzyczenia jest Walne Zebranie Członków.
 
@@ -105,9 +108,9 @@ Rozdział VI: Walne Zebranie Członków
 
 §33 Zwyczajne Walne Zebranie Członków zwołuje Zarząd raz w roku, jako sprawozdawczo-wyborcze, zawiadamiając członków o jego terminie, miejscu i proponowanym porządku obrad co najmniej 14 dni przed terminem Walnego Zebrania Członków. Jeśli na zebraniu nie ma wymaganego kworum, zwołuje się zebranie w drugim terminie nie później niż w ciągu miesiąca od dnia zwołania Walnego Zebrania Członków.
 
-§34 Walne Zebranie Członkóœ obraduje według uchwalonego przez siebie regulaminu obrad.
+§34 Walne Zebranie Członków obraduje według uchwalonego przez siebie regulaminu obrad.
 
-§35 Nadzwyczajne Walneg Zebranie Członków zwołuje Zarząd:
+§35 Nadzwyczajne Walne Zebranie Członków zwołuje Zarząd:
 a) z własnej inicjatywy,
 b) na żądanie członków Komisji Rewizyjnej,
 c) na pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
@@ -123,13 +126,13 @@ e) rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia,
 f) rozpatrywanie odwołań od uchwał Zarządu,
 g) podejmowanie uchwał o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku.
 
-Rozdział VII: Zarząd
+Rozdział VIII: Zarząd
 
 §38 Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie na zewnątrz.
 
-§39 Zarząd składa się z od 2 do 5 osób, w tym prezesa wynieranego na pierwszym posiedzeniu Zarządu.
+§39 Zarząd składa się z od 2 do 5 osób, w tym prezesa wybieranego na pierwszym posiedzeniu Zarządu.
 
-§40 Posiedzenia Zarządu odbywają sie w miarę potrzeb, nie rzadziej jednak niż raz w miesiącu. Posiedzenia Zarządu zwołuje prezes. 
+§40 Posiedzenia Zarządu odbywają się w miarę potrzeby na wniosek prezesa Zarządu, nie rzadziej jednak niż raz w miesiącu.
 
 §41 Do kompetencji Zarządu należy:
 a) kierowanie bieżącą pracą Stowarzyszenia,
@@ -137,46 +140,48 @@ b) realizowanie uchwał Walnego Zebrania Członków,
 c) zarządanie majątkiem Stowarzyszenia,
 d) planowanie i prowadzenie gospodarki finansowej,
 e) reprezentowanie Stowarzyszenia na zewnątrz i działanie w jego imieniu,
-f) przyjmowanie i wykluczanie członków Stowarzyszenia,
-g) zwoływanie Walnego Zebrania Członków,
-h) ustalanie wysokości składek członkowskich.
+f) przyjmowanie członków Stowarzyszenia,
+g) wykluczanie z członkowstwa w Stowarzyszeniu,
+h) zwoływanie Walnego Zebrania Członków,
+i) ustalanie wysokości składek członkowskich.
 
-Rozdział VIII: Komisja Rewizyjna
+Rozdział IX: Komisja Rewizyjna
 
 §42 Komisja Rewizyjna jest powołana do sprawowania kontroli nad działalnością Stowarzyszenia.
 
 §43 Komisja Rewizyjna składa się z od 2 do 5 osób, w tym przewodniczącego wybieranego na pierwszym posiedzeniu Komisji Rewizyjnej.
 
-§44 Posiedzenia Komisji Rewizyjnej odbywają sie w miarę potrzeb, nie rzadziej jednak niż raz na 3 miesiące. Posiedzenia Komisji Rewizyjnej zwołuje przewodniczący.
+§44 Posiedzenia Komisji Rewizyjnej odbywają sie w miarę potrzeby na wniosek przewodniczącego Komisji Rewizyjnej, nie rzadziej jednak niż raz na 3 miesiące.
 
 §45 Do kompetencji Komisji Rewizyjnej należy:
 a) kontrola całokształtu działalności Stowarzyszenia,
 b) ocena pracy Zarządu, w tym corocznych sprawozdań i bilansu,
-c) składanie sprawozdań na Walnym Zebrania Członków wraz z oceną działalności Stowarzyszenia i Zarządu Stowarzyszenia,
+c) składanie sprawozdań na Walnym Zebraniu Członków wraz z oceną działalności Stowarzyszenia i Zarządu Stowarzyszenia,
 d) wnioskowanie do Walnego Zebrania Członków o udzielenie absolutorium Zarządowi,
-e) wnioskowanie o odwołanie całego Zarządu w razie jego bezczynnośći lub becznnego członka Zarządu,
-f) wnioskowanie o zwołanie nadzwyczajnego Welnego Zebrania Członków,
-g) zwołanie Walnego Zebrania Członków w razie nie zołania Walnego Zebrania Członkóœ przez Zarząd w określonym terminie.
+e) wnioskowanie o odwołanie całego Zarządu w razie jego bezczynności lub bezczynnego członka Zarządu,
+f) wnioskowanie o zwołanie nadzwyczajnego Walnego Zebrania Członków,
+g) zwołanie Walnego Zebrania Członków w razie nie zwołania Walnego Zebrania Członków przez Zarząd w określonym terminie.
 
-Rozdział IX: Majątek i gospodarka finansowa
+Rozdział X: Majątek i gospodarka finansowa
 
 §46 Źródłami majątku Stowarzyszenia są:
 a) składki członkowskie,
-b) darowizny, zapisy i spadki, środki pochodzące z ofiarnośći publicznej,
+b) darowizny, zapisy i spadki, środki pochodzące z ofiarności publicznej,
 c) dotacje, subwencje, udziały, lokaty,
-d) dochody z majątku Stowarzyszenia, dochody z własnej działalności.
+d) dochody z majątku Stowarzyszenia,
+e) dochody z działalności Stowarzyszenia.
 
 §47 Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
 
 §48 Decyzje w sprawie nabywania, zbywania i obciążania majątku Stowarzyszenia podejmuje Zarząd.
 
-Rodział X: Sposób reprezentacji
+Rodział XI: Sposób reprezentacji
 
 §49 Do składania oświadczeń woli w imieniu Stowarzyszenia, w tym w sprawach majątkowych, uprawnionych jest dwóch członków Zarządu działających łącznie.
 
-Rozdział XI: Działalność gospodarcza
+Rozdział XII: Działalność gospodarcza
 
-§50 Stowarzyszenie może prowadzić działalność gospodarczą na ogólnych zasadach określonych w odrębnych przepisach. Stowarzyszenie prowadzi działalność gospodarczą wyłącznie w rozmiarach służącyh realizacji celów statutowych.
+§50 Stowarzyszenie może prowadzić działalność gospodarczą na ogólnych zasadach określonych w odrębnych przepisach. Stowarzyszenie prowadzi działalność gospodarczą wyłącznie w rozmiarach służących realizacji celów statutowych.
 
 §51 Stowarzyszenie prowadzi działalność gospodarczą w następujących dziedzinach:
 a) Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet - 47.91.Z,
@@ -203,11 +208,11 @@ u) Działalność związana z organizacją targów, wystaw i kongresów - 82.30.
 v) Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane - 85.59.B,
 w) Działalność pozostałych organizacji członkowskich, gdzie indziej niesklasyfikowana - 94.99.Z.
 
-Rozdział XII: Postanowienia końcowe
+Rozdział XIII: Postanowienia końcowe
 
 §52 Uchwałę w sprawie zmiany statutu Stowarzyszenia podejmuje Walne Zebranie Członków zwykłą większością głosów, w obecności przynajmniej połowy członków uprawnionych do głosowania.
 
-§53 Uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków zwykłą większością głosóœ przy obecności co najmniej połowy członków uprawnionych do głosowania.
+§53 Uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania.
 
 §54 Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie Członków określa jego sposób likwidacji oraz przeznaczenia majątku Stowarzyszenia.
 

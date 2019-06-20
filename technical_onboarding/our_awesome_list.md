@@ -9,6 +9,7 @@
 
 ### Flask
 * [Rest APIs with Flask and Python - Udemy - Jose Salvatierra](https://www.udemy.com/rest-api-flask-and-python)
+* [Advanced Rest APIs with Flask and Python - Udemy - Jose Salvatierra](https://www.udemy.com/advanced-rest-apis-flask-python)
 
 
 ### Docker

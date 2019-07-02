@@ -14,7 +14,7 @@ Rozdział II: Cele
 3. promowanie idei wytwarzania otwartego oprogramowania na rzecz społeczności lokalnych i organizacji, odpowiadających na realne problemy społeczne, wspierających aktywność lokalną oraz promujących odpowiedzialność za dobro wspólne;
 4. promocja i organizacja wolontariatu oraz działalności charytatywnej;
 5. działalność wspomagająca rozwój wspólnot i społeczności lokalnych;
-6. działalnośc na rzecz organizacji pozarządowych.
+6. działalność na rzecz organizacji pozarządowych.
 
 Rozdział III: Realizacja celów
 
@@ -73,7 +73,7 @@ d) regularnego opłacania składek.
 
 §23 Członkowie wspierający mają obowiązek wywiązywania się z zadeklarowanych zobowiązań, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
 
-§24 Członkowstwo w Stowarzyszeniu ustaje na skutek:
+§24 Członkostwo w Stowarzyszeniu ustaje na skutek:
 a) dobrowolnej rezygnacji pisemnej z przynależności do Stowarzyszenia złożonej na ręce Zarządu,
 b) uchwały Zarządu:
  - z powodu nieusprawiedliwionego zalegania z opłatą składek członkowskich lub innych zobowiązań przez okres przekraczający 6 miesięcy,

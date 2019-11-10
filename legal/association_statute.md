@@ -32,9 +32,9 @@ Rozdział III: Realizacja celów
 
 §11 Stowarzyszenie może upowszechniać w internecie, w środkach masowego przekazu, w formie audycji radiowych lub telewizyjnych, filmów telewizyjnych, artykułów prasowych oraz reportaży, wywiadów w prasie, radio i telewizji, i za pomocą wydawnictw wiedzy w zakresie objętym celami Stowarzyszenia.
 
-Rozdział IV: Wolontariat i Współpraca
-
 §12 Stowarzyszenie realizuje swoje cele poprzez prowadzenie odpłatnej i nieodpłatnej działalności pożytku publicznego w zakresie wskazanym w §4 oraz art. 4 ust. 1 pkt. 11-13 w Ustawie o działalności pożytku publicznego i wolontariacie z dnia 24 kwietnia 2003 wraz z późniejszymi zmianami.
+
+Rozdział IV: Wolontariat i Współpraca
 
 §13 Wolontariuszami Stowarzyszenia mogą być osoby o różnych kompetencjach, w tym: programiści, testerzy oprogramowania, specjaliści w zakresie użyteczności aplikacji, menedżerowie projektów, aktywiści społeczni, pracownicy organizacji non-profit, badacze społeczni, prawnicy i inni, których wiedza oraz umiejętności mogą przyczynić się do realizacji celów Stowarzyszenia.
 

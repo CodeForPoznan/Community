@@ -8,7 +8,7 @@ Prezentacje do onboardingu - zostały stworzone issues, osobno dla technicznej i
 
 Po spotkaniu z nową osobą jedna z osób robiących onboarding utrzymuje z nią kontakt – np. przed kolejnym spotkaniem pyta, czy będzie albo po pierwszym spotkaniu pyta, czy ma jakieś pytania etc. 
 
-###### Część I - organizacja
+###### Community
 1. co robimy – społecznie ważne aplikacje
 1. kto tu działa?
 1. jak pracujemy, tj. że się co tydzień spotykamy i kodujemy/rozmawiamy
@@ -16,7 +16,7 @@ Po spotkaniu z nową osobą jedna z osób robiących onboarding utrzymuje z nią
 1. czego oczekujemy od członków – że będą w miarę regularnie przychodzić i dostarczać kod :)
 1. co możemy dać – nauczymy, poznasz ludzi, zrobisz coś fajnego, niekomercyjnego, do CV...
 
-###### Część II - projekty
+###### Projects
 1. Volontulo – o co w tym chodzi i dla kogo robimy, jak to będzie wyglądało, że to potrzebny projekt
 1. jak to robimy (ogólnikowo) – szczegóły w kwestiach technicznych osobno dla każdego projektu
 1. na jakim etapie prac jesteśmy?

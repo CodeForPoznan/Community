@@ -20,7 +20,7 @@ In short words, we are forking repository from Code for Poznan organisation to o
      `git checkout master` to switch your current branch to master
 2. `git fetch upstream`
   * To fetch upstream repository (newest changes from master branch from upstream repository - in that case Code for Poznan's main branch for particular project)
-3. `git merge upstream/master` (or `git merge upstream/develop` for pah-fm project)
+3. `git merge upstream/master`
   * To merge all the changes from upstream repository to your master branch.
 4. `git push`
   * to push all of the changes to forked repository
@@ -38,4 +38,3 @@ In short words, we are forking repository from Code for Poznan organisation to o
   * `git push origin name_of_your_branch`
 6. go to Github website and create Pull Request from head
 eg.: `w1stler:sample_branch` to base `codeforpoznan:master`
-(eg. for pah-fm project: `w1stler:sample_branch` to base `codeforpoznan:develop`)

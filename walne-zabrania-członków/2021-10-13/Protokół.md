@@ -1,12 +1,12 @@
-# Walne Zebranie Członków Stworzyszenia Code for Poznań w dniu 13.10.2021
+# Walne Zebranie Członków Stowarzyszenia Code for Poznań w dniu 13.10.2021
 
-Na walnym zebraniu członków stawiło się 9 osób na 11 czynnych członków Stowarzyczenia. Stwierdzono kworum.
+Na walnym zebraniu członków stawiło się 9 osób na 11 czynnych członków Stowarzyszenia. Stwierdzono kworum.
 
 Obrady otworzył Krzysztof Durczak o 18:20.
 
 ## Porządek obrad
 1. Dyskusja na temat kadencyjności władz wybieralnych Stowarzyszenia
-1. Sprawodznie Zarządu z ubiegającej kadencji
+1. Sprawozdanie Zarządu z ubiegającej kadencji
 1. Opinia Komisji Rewizyjnej do sprawozdania Zarządu
 1. Głosowanie nad udzieleniem absolutorium Zarządowi
 1. Wybór Zarządu na następną kadencję
@@ -18,8 +18,8 @@ Obrady otworzył Krzysztof Durczak o 18:20.
 
 Krzysztof Durczak zreferował problem związany za kadencyjnością władz wybieralnych Stowarzyszenia związanego z terminami kadencji, tzn. czy kadencja zaczęła bieg z momentem zebrania założycielskiego, czy też z momentem rejestracji w KRS.
 
-W toku dyskusji dotyczącej rozwiązania problemu kadencyjności zaproponowano przedłużenie kadencji obecnie wybraych Zarządu i Komisji Rewizyjnej do końca kwietnia 2022r, w celu zrównania roku sprawozdawczego z kadencjami władz wybieralnych Stowarzyszenia.
-Propozycję poddano głosowaniu. Za wnioskiem 8 osób, przeciw 0, 1 osoba się wstrzymała.
+W toku dyskusji dotyczącej rozwiązania problemu kadencyjności zaproponowano przedłużenie kadencji obecnie wybranych Zarządu i Komisji Rewizyjnej do końca kwietnia 2022r, w celu zrównania roku sprawozdawczego z kadencjami władz wybieralnych Stowarzyszenia.
+Propozycję poddano głosowaniu. Za wnioskiem opowiedziało się- 8 osób, przeciw- 0, 1- osoba się wstrzymała.
 
 ## Sprawozdanie Zarządu z ubiegającej kadencji
 
@@ -33,21 +33,21 @@ Komisja Rewizyjna przyjęła sprawozdanie merytoryczne Zarządu, zaopiniowała j
 
 ## Głosowanie nad udzieleniem absolutorium Zarządowi
 
-Absolutorium zostało udzielone w głosowniu: 9 osób za, 0 przeciw, 0 się wstrzymało.
+Absolutorium zostało udzielone w głosowaniu: 9 osób- za, 0- przeciw, 0- się wstrzymało.
 
 ## Wybór Zarządu na następną kadencję
 
-W związku w wynikiem głosowania z punktu pierwszego dotyczącego przedłużenia kadencji wybieralnych władz Stowarzyszenia punkt został anulowany.
+W związku z wynikiem głosowania z punktu pierwszego dotyczącego przedłużenia kadencji wybieralnych władz Stowarzyszenia punkt został anulowany.
 
 ## Wybór Komisji Rewizyjnej na następną kadencję
 
-W związku w wynikiem głosowania z punktu pierwszego dotyczącego przedłużenia kadencji wybieralnych władz Stowarzyszenia punkt został anulowany.
+W związku z wynikiem głosowania z punktu pierwszego dotyczącego przedłużenia kadencji wybieralnych władz Stowarzyszenia punkt został anulowany.
 
 ## Wolne wnioski
 
 ### Zmiany Statutu Stowarzyszenia
 
-Julia Anholcer podniosła temat zmian w Statucie Stowarzyszenia. W trakcie rozmowy zostało zapropnowane, by w celu zmiany statutu wystawić pull request do dokumentu hostowanego na Githubie, do które kolejne proponowane zmiany nanosić za pomocą kolejnych commitów. Zmiany z tego pull requestu zostaną przedyskutowane na kolejnym Walnym Zebraniu Członków.
+Julia Anholcer podniosła temat zmian w Statucie Stowarzyszenia. W trakcie rozmowy zostało zaproponowane, by w celu zmiany statutu wystawić pull request do dokumentu hostowanego na Githubie, do którego kolejne proponowane zmiany nanoszone będą za pomocą kolejnych commitów. Zmiany z tego pull requestu zostaną przedyskutowane na kolejnym Walnym Zebraniu Członków.
 
 ## Zamknięcie obrad
 

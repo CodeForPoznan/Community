@@ -44,16 +44,20 @@ Na członków Komisji Rewizyjnej Stowarzyszenia zgłoszono kandydatury:
 Walne Zebranie 7 głosami za, przy braku sprzeciwu i 1 wstrzymującym się zdecydowało o przyjęciu powyższego składu.
 
 Następnie w ramach wolnych wniosków przewodniczący Jan Małecki zgłosił propozycję uchwały obejmującej zmniejszenie obligatoryjnej częstotliwości posiedzeń Zarządu i Komisji Rewizyjnej w związku ze spowolnieniem działalności Stowarzyszenia wskutek pandemii SARS-2-COVID-19.
+
 Walne Zebranie 7 głosami za, przy braku sprzeciwu i 1 wstrzymującym się, zdecydowało o przyjęciu uchwały stanowiącej załącznik nr 3 do niniejszego protokołu. 
 
 Wobec braku dalszych wolnych wniosków przewodniczący zakończył zebranie
 
 
-Przewodniczący              Protokolant zebrania
-Jan Małecki                 Krzysztof Durczak
+Przewodniczący: Jan Małecki
+
+Protokolant zebrania: Krzysztof Durczak
 
 
 #### Załączniki do protokołu:
 1/ – lista obecności,
-2/ – uchwała o zatwierdzeniu sprawozdania finansowego za rok 2021
+
+2/ – uchwała o zatwierdzeniu sprawozdania finansowego za rok 2021,
+
 3/ – uchwała o zmianie statutu Stworzyszenia Code for Poznań 

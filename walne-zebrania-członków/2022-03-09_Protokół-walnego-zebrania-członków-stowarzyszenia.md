@@ -9,8 +9,11 @@ Na 11 członków Stowarzyszenia uprawnionych do głosowania, w Zebraniu uczestni
 
 Zebranie otworzył Jan Małecki, Członek Zarządu Stowarzyszenia Code for Poznań.
 Następnie zostali wybrani przewodniczący i sekretarz Walnego Zebrania. 
+
 Na przewodniczącego wybrano Jana Małeckiego, 8 głosami za, przy 0 wstrzymujących się i 0 głosami przeciw. 
+
 Na sekretarza wybrano Krzysztofa Durczaka, 8 głosami za, przy 0 wstrzymujących się i 0 głosami przeciw.
+
 
 Prowadzenie zebrania przejął przewodniczący Jan Małecki.
 Odbyło się głosowanie nad porządkiem obrad, który został przyjęty jednogłośnie, bez zmian. 
@@ -52,7 +55,7 @@ Wobec braku dalszych wolnych wniosków przewodniczący zakończył zebranie
 
 Przewodniczący: Jan Małecki
 
-Protokolant zebrania: Krzysztof Durczak
+Sekretarz: Krzysztof Durczak
 
 
 #### Załączniki do protokołu:

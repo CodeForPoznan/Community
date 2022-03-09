@@ -56,8 +56,6 @@ Protokolant zebrania: Krzysztof Durczak
 
 
 #### Załączniki do protokołu:
-1/ – lista obecności,
-
-2/ – uchwała o zatwierdzeniu sprawozdania finansowego za rok 2021,
-
-3/ – uchwała o zmianie statutu Stworzyszenia Code for Poznań 
+1. lista obecności,
+2. uchwała o zatwierdzeniu sprawozdania finansowego za rok 2021,
+3. uchwała o zmianie statutu Stworzyszenia Code for Poznań 

@@ -132,7 +132,7 @@ Rozdział VIII: Zarząd
 
 §39 Zarząd składa się z od 2 do 5 osób, w tym prezesa wybieranego na pierwszym posiedzeniu Zarządu.
 
-§40 Posiedzenia Zarządu odbywają się w miarę potrzeby na wniosek prezesa Zarządu, nie rzadziej jednak niż raz w miesiącu.
+§40 Posiedzenia Zarządu odbywają się w miarę potrzeby na wniosek prezesa Zarządu, nie rzadziej jednak niż raz na 3 miesiące.
 
 §41 Do kompetencji Zarządu należy:
 a) kierowanie bieżącą pracą Stowarzyszenia,
@@ -151,7 +151,7 @@ Rozdział IX: Komisja Rewizyjna
 
 §43 Komisja Rewizyjna składa się z od 2 do 5 osób, w tym przewodniczącego wybieranego na pierwszym posiedzeniu Komisji Rewizyjnej.
 
-§44 Posiedzenia Komisji Rewizyjnej odbywają sie w miarę potrzeby na wniosek przewodniczącego Komisji Rewizyjnej, nie rzadziej jednak niż raz na 3 miesiące.
+§44 Posiedzenia Komisji Rewizyjnej odbywają sie w miarę potrzeby na wniosek przewodniczącego Komisji Rewizyjnej.
 
 §45 Do kompetencji Komisji Rewizyjnej należy:
 a) kontrola całokształtu działalności Stowarzyszenia,

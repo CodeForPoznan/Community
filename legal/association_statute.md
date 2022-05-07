@@ -26,7 +26,7 @@ Rozdział III: Realizacja celów
 
 §8 Stowarzyszenie może prowadzić nieregularne spotkania, w tym szkolenia, warsztaty, kursy, wykłady, spotkania, świadczyć doradztwo specjalistyczne oraz publikować materiały związane z celami Stowarzyszenia.
 
-§9 Stowarzyszenie może prowadzić lub wspierać badania naukowe i rozwojowe związane z celami Stowarzyszenia oraz rozpowszechniać ich wyniki, publikować wyniki badań i opracowań, podsumowań gromadzonych danych oraz materiałów szkoleniowo-dydaktyczych, o tematyce związanej z celami Stowarzyszenia.
+§9 Stowarzyszenie może prowadzić lub wspierać badania naukowe i rozwojowe związane z celami Stowarzyszenia oraz rozpowszechniać ich wyniki, publikować wyniki badań i opracowań, podsumowań gromadzonych danych oraz materiałów szkoleniowo-dydaktycznych, o tematyce związanej z celami Stowarzyszenia.
 
 §10 Stowarzyszenie może organizować i brać udział w akcjach oraz kampaniach społecznych, seminariach, pokazach, imprezach edukacyjnych i kulturalnych, organizować konkursy oraz przyznawać nagrody i stypendia, przeprowadzać akcje medialne (kampanie informacyjne i akcje społeczne) promujące działania lub cele Stowarzyszenia.
 
@@ -83,7 +83,7 @@ c) utraty praw obywatelskich na mocy prawomocnego wyroku sądu,
 d) śmierci członka,
 e) utraty osobowości prawnej.
 
-§25 Od uchwały Zarządu w sprawie pozbawienia członkowstwa w Stowarzyszeniu przysługuje odwołanie do Walnego Zebrania Członków w terminie miesiąca od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna.
+§25 Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu przysługuje odwołanie do Walnego Zebrania Członków w terminie miesiąca od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna.
 
 Rozdział VI: Władze
 
@@ -102,7 +102,7 @@ c) Komisja Rewizyjna.
 
 Rozdział VII: Walne Zebranie Członków
 
-§31 Najwyższą władzą Stowarzyczenia jest Walne Zebranie Członków.
+§31 Najwyższą władzą Stowarzyszenia jest Walne Zebranie Członków.
 
 §32 Walne Zebranie Członków może być zwyczajne i nadzwyczajne.
 
@@ -137,7 +137,7 @@ Rozdział VIII: Zarząd
 §41 Do kompetencji Zarządu należy:
 a) kierowanie bieżącą pracą Stowarzyszenia,
 b) realizowanie uchwał Walnego Zebrania Członków,
-c) zarządanie majątkiem Stowarzyszenia,
+c) zarządzanie majątkiem Stowarzyszenia,
 d) planowanie i prowadzenie gospodarki finansowej,
 e) reprezentowanie Stowarzyszenia na zewnątrz i działanie w jego imieniu,
 f) przyjmowanie członków Stowarzyszenia,
@@ -151,7 +151,7 @@ Rozdział IX: Komisja Rewizyjna
 
 §43 Komisja Rewizyjna składa się z od 2 do 5 osób, w tym przewodniczącego wybieranego na pierwszym posiedzeniu Komisji Rewizyjnej.
 
-§44 Posiedzenia Komisji Rewizyjnej odbywają sie w miarę potrzeby na wniosek przewodniczącego Komisji Rewizyjnej.
+§44 Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeby na wniosek przewodniczącego Komisji Rewizyjnej.
 
 §45 Do kompetencji Komisji Rewizyjnej należy:
 a) kontrola całokształtu działalności Stowarzyszenia,
@@ -222,3 +222,4 @@ Statut przyjęto uchwałą w dniu ..........
 Podpisane:
 .......
 .......
+
